@@ -1,0 +1,65 @@
+{
+	"data": [
+	{
+		"name": "Pro Electrician",
+		"url": "http://www.proelectricianmelbourne.com.au/",
+		"address": "7/50 Market St",
+		"zip": "3000",
+		"phone": "+61 3 8595 9888"
+	},
+	{
+		"name": "1st Call Electrical Services",
+		"url": "http://www.firstcallelectrical.com.au/",
+		"phone": "+61 1300 360 215"
+	},
+	{
+		"name": "Melbourne Emergency Electricians",
+		"url": "https://www.melbourneemergencyelectricians.com.au/",
+		"phone": "+61 429 995 999"
+	},
+	{
+		"name": "Electricians On Call",
+		"url": "http://www.electriciansoncall.com.au/",
+		"phone": "+61 1800 815 278"
+	},
+	{
+		"name": "Laser Electrical",
+		"url": "http://www.laserelectrical.com.au/m/electrician-melbourne-cbd",
+		"address": "Suite 504, Level 5/365 Little Collins St",
+		"zip": "3000",
+		"phone": "+61 3 9642 2655"
+	},
+	{
+		"name": "Briggs Electrical",
+		"url": "https://www.briggselectrical.com.au/",
+		"phone": "+61 1300 300 222"
+	},
+	{
+		"name": "Platinum Electricians",
+		"url": "http://www.platinumelectricians.com.au/melbourne/western-suburbs/electrician-in-werribee",
+		"address": "Tanreit, 7 Cityview Cres",
+		"zip": "3029",
+		"phone": "+61 1800 752 846"
+	},
+	{
+		"name": "Eastern Melbourne Electricians",
+		"url": "http://www.easternmelbourneelectricians.com/",
+		"address": "4/101 Blackburn Rd, Mount Waverley",
+		"zip": "3149",
+		"phone": "+61 1800 851 129"
+	},
+	{
+		"name": "Jim's Electrical",
+		"url": "https://www.jimselectrical.com.au/electrician-melbourne-jims-electrical.cfm/",
+		"phone": "+61 131546"
+	},
+	{
+		"name": "CLELEC",
+		"url": "http://www.clelec.com.au/",
+		"address": "Suite 2411/601 Little Lonsdale St",
+		"zip": "3000",
+		"phone": "+61 438 551 022"
+	}
+	
+	]
+}

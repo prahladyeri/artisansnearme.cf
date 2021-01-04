@@ -1,0 +1,75 @@
+{
+	"data": [
+	{
+		"name": "Perth Dental Centre",
+		"url": "http://www.perthdentalcentre.com.au/",
+		"address": "497 Wellington St",
+		"zip": "6000",
+		"phone": "+61 8 9222 5900"
+	},
+	{
+		"name": "Perth City Dental Surgery",
+		"url": "https://www.perthcitydental.com.au/",
+		"address": "5/105 St Georges Terrace",
+		"zip": "6000",
+		"phone": "+61 8 9316 6894"
+	},
+	{
+		"name": "Perth Dental Rooms",
+		"url": "http://www.perthdentalrooms.com.au/",
+		"address": "Level 1, Wentworth Building, 300 Murray St",
+		"zip": "6000",
+		"phone": "+61 8 9322 5340"
+	},
+	{
+		"name": "LifeCare Dental",
+		"url": "https://lifecaredental.com.au/",
+		"address": "419 Wellington St",
+		"zip": "6000",
+		"phone": "+61 8 9221 2777"
+	},
+	{
+		"name": "London Court Dental Clinic",
+		"url": "https://www.lcdc.com.au/",
+		"address": "1/58 St Georges Terrace",
+		"zip": "6000",
+		"phone": "+61 8 9325 4175"
+	},
+	{
+		"name": "Aria Dental - Dental Implants, Dentures, Invisalign & Cosmetic Dentistry",
+		"url": "https://www.ariadental.net.au/",
+		"address": "1002 Hay St",
+		"zip": "6000",
+		"phone": "+61 8 6208 9551"
+	},
+	{
+		"name": "Absolute Dental West Perth",
+		"url": "https://absolutedental.com.au/",
+		"address": "1/34 Outram St, West Perth",
+		"zip": "6000",
+		"phone": "+61 8 9321 6398"
+	},
+	{
+		"name": "Accent Dental Perth",
+		"url": "https://accentdental.com.au/",
+		"address": "HSBC, 190 St Georges Terrace",
+		"zip": "6000",
+		"phone": "+61 8 9226 1461"
+	},
+	{
+		"name": "Maven Dental QV1 Perth",
+		"url": "https://mavendental.com.au/dentists/maven-dental-qv1-perth",
+		"address": "976 Hay St",
+		"zip": "6000",
+		"phone": "+61 8 9322 5666"
+	},
+	{
+		"name": "Stirling Street Dental Clinic",
+		"url": "https://www.stirlingstreetdental.com.au/",
+		"address": "7/177 Stirling St",
+		"zip": "6000",
+		"phone": "+61 8 9227 7700"
+	}
+	
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"data": [
+	{
+		"name": "Melbourne Dentist Clinic",
+		"url": "http://melbourne.dentist-clinic.com/",
+		"address": "Neo200, 200 Spencer St",
+		"zip": "3000",
+		"phone": "+61 3 9999 9703"
+	},
+	{
+		"name": "Australian Dentists Clinic",
+		"url": "https://dentistsclinic.com.au/locations/melbourne-cbd/index.html",
+		"address": "Level 3/620 Bourke St",
+		"zip": "3000",
+		"phone": "+61 3 9088 0257"
+	},
+	{
+		"name": "Smile Solutions® Melbourne",
+		"url": "https://www.smilesolutions.com.au/",
+		"address": "Level 1, 220 Collins Street, Manchester Unity Building",
+		"zip": "3000",
+		"phone": "+61 131396"
+	},
+	{
+		"name": "Gentle Dentist Melbourne - AFFORDABLE DENTIST in Melbourne CBD",
+		"url": "http://drzenaidycastro.com.au/index.html",
+		"address": "10th floor suite 3/1 Elizabeth St",
+		"zip": "3000",
+		"phone": "+61 3 9629 7664"
+	},
+	{
+		"name": "Freedom Dental - Dentist Melbourne",
+		"url": "http://www.freedomdental.com.au/",
+		"address": "6/37-39 Albert Rd",
+		"zip": "3004",
+		"phone": "+61 3 9828 3888"
+	},
+	{
+		"name": "Holistic Dental Melbourne Cbd",
+		"url": "https://www.holisticdentalmelbournecbd.com.au/",
+		"address": "Level 1/20 Collins St",
+		"zip": "3000",
+		"phone": "+61 3 9662 2288"
+	},
+	{
+		"name": "Gorgeous Smiles Dentistry",
+		"url": "http://www.gorgeoussmiles.com.au/",
+		"address": "121 Exhibition St",
+		"zip": "3000",
+		"phone": "+61 3 9042 0483"
+	},
+	{
+		"name": "Melbourne Dentistry",
+		"url": "http://www.melbournedentistry.com/",
+		"address": "Kurrajong House, Level 2/175 Collins St",
+		"zip": "3000",
+		"phone": "+61 3 9650 0033"
+	},
+	{
+		"name": "Melbourne Dentist",
+		"url": "http://www.melbournedentist.com/",
+		"address": "517 St Kilda Rd",
+		"zip": "3004",
+		"phone": "+61 3 9867 1252"
+	},
+	{
+		"name": "Dental On Flinders",
+		"url": "http://www.dentalonflinders.com.au/",
+		"address": "Suite 2, Level 5/276 Flinders St",
+		"zip": "3000",
+		"phone": "+61 3 9041 0049"
+	}
+	
+	]
+}
