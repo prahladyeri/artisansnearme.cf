@@ -1,1 +1,1 @@
-```contents in gh-pages branch
+contents in gh-pages branch
