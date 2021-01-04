@@ -1,0 +1,74 @@
+{
+	"data": [
+	{
+		"name": "Ammache Architects Melbourne",
+		"url": "http://www.ammachearchitects.com.au/",
+		"address": "2-14 Thistlethwaite St, South Melbourne",
+		"zip": "3205",
+		"phone": "+61 417 571 514"
+	},
+	{
+		"name": "WOLF Architects",
+		"url": "http://wolfarchitects.com.au/",
+		"address": "730 Waverley Rd, Malvern East",
+		"zip": "3145",
+		"phone": "+61 3 9807 1586"
+	},
+	{
+		"name": "mcmahon and nerlich",
+		"url": "https://www.mcmahonandnerlich.com.au/studio-home",
+		"address": "228 Bank St, South Melbourne",
+		"zip": "3205",
+		"phone": "+61 3 8595 6706"
+	},
+	{
+		"name": "Rebecca Naughtin Architect",
+		"url": "http://rnarchitect.com.au/",
+		"phone": "+61 421 066 452"
+	},
+	{
+		"name": "Point Architects Pty Ltd",
+		"url": "http://www.pointarchitects.com.au/",
+		"address": "545 King St",
+		"zip": "3003",
+		"phone": "+61 3 9329 5988"
+	},
+	{
+		"name": "ED EWERS ARCHITECTURE",
+		"url": "http://ewersarchitecture.com.au/",
+		"address": "617 Spencer St, West Melbourne",
+		"zip": "3003",
+		"phone": "+61 3 9326 5366"
+	},
+	{
+		"name": "PHOOEY Architects",
+		"url": "http://www.phooey.com.au/",
+		"address": "Suite 315/343 Little Collins St",
+		"zip": "3000",
+		"phone": "+61 3 9116 4021"
+	},
+	{
+		"name": "Windiate Architects PTY Ltd.",
+		"url": "http://windiatearchitects.com.au/",
+		"address": "BANK HOUSE, 27 Railway Pl, Fairfield",
+		"zip": "3078",
+		"phone": "+61 3 9078 6469"
+	},
+	{
+		"name": "DW Architects and Interiors",
+		"url": "http://dwarc.com.au/",
+		"address": "588-590 City Rd, South Melbourne",
+		"zip": "3205",
+		"phone": "+61 3 9686 9785"
+	},
+	{
+		"name": "Grimshaw Architects",
+		"url": "https://www.grimshaw.global/",
+		"address": "21 Bouverie St",
+		"zip": "3053",
+		"phone": "+61 3 9321 2600"
+	}
+
+	
+	]
+}
