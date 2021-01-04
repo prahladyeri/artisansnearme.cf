@@ -1,3 +1,8 @@
+var SITEMAP_INDEX_URL = "/sitemaps/index.xml";
+
+function readTextContent(data) {
+	return data.replace(/\r\n/g, "\r").replace(/\n/g, "\r").split(/\r/);
+}
 
 window.addEventListener("DOMContentLoaded", function(){
 	console.log("All is well!");
@@ -6,6 +11,20 @@ window.addEventListener("DOMContentLoaded", function(){
 	var state = urlParams.get('state');
 	var city = urlParams.get('city');
 	var prof = urlParams.get('prof');
+	
+	if (ct == null) { //list all countries
+		$.get(SITEMAP_INDEX_URL, function(data){
+			data = readTextContent(data);
+			parser = new DOMParser();
+			xmlDoc = parser.parseFromString(data,"text/xml");
+			console.log('xml data:', xmlDoc);
+		});
+		return;
+	}
+	else if (state==null || city==null || prof==null) {
+		//list all details for this country
+		return;
+	}
 	
 	var title = prof + " in " + city + ", " + state;
 	document.title = title + " - " + document.title;
@@ -37,10 +56,11 @@ window.addEventListener("DOMContentLoaded", function(){
 		});
 	});
 	
-	url = "/sitemaps/"+ct+".txt";
-	console.log('url:', url);
+	
+	//console.log('url:', url);
+	var url = "/sitemaps/"+ct+".txt";
 	$.get(url, function(data){
-		data = data.replace(/\r\n/g, "\r").replace(/\n/g, "\r").split(/\r/);
+		data = readTextContent(data);
 		data.forEach(function(item, idx){
 			console.log('item:', item, 'idx:', idx);
 			if (item=="") return;
