@@ -1,2 +1,2 @@
-http://localhost:8000?ct=au&state=NSW&city=Sydney&prof=Architects
-http://localhost:8000?ct=au&state=SA&city=Adelaide&prof=Carpenters
+http://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Architects
+http://artisansnearme.cf?ct=au&state=SA&city=Adelaide&prof=Carpenters
