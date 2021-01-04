@@ -1,4 +1,5 @@
 var SITEMAP_INDEX_URL = "/sitemaps/index.xml";
+var DOMAIN = "artisansnearme.cf";
 
 function readTextContent(data) {
 	return data.replace(/\r\n/g, "\r").replace(/\n/g, "\r").split(/\r/);
@@ -37,6 +38,17 @@ window.addEventListener("DOMContentLoaded", function(){
 	var city = urlParams.get('city');
 	var prof = urlParams.get('prof');
 	
+	var ldData = { //for bread-crumbs
+		"@context":  "https://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": ct,
+        "item": "https://" + DOMAIN + "?ct=" + ct
+      }],
+	}
+	
 	if (ct == null) { //list all countries
 		$.get(SITEMAP_INDEX_URL, function(xmldata){
 			//window.xmldata = data;
@@ -67,15 +79,31 @@ window.addEventListener("DOMContentLoaded", function(){
 		document.title = title + " - " + document.title;
 		$("#lblTitle").text(title);
 		showListings(ct, state, city, prof);
+		
+		//add more crumbs to ldData
+		var obj = null;
+		obj = {"@type": "ListItem", "position": 2,"name": state}
+		ldData.itemListElement.push(obj);
+		obj = {"@type": "ListItem", "position": 3,"name": city}
+		ldData.itemListElement.push(obj);
+		obj = {"@type": "ListItem", "position": 4,"name": prof}
+		ldData.itemListElement.push(obj);
 	}
 	
+	//add script element for bread-crumbs
+	var script = document.createElement('script');
+	script.type = "application/ld+json";
+	script.innerHTML = JSON.stringify(ldData);
+	//window.script = script;
+	document.getElementsByTagName('head')[0].appendChild(script);
+	console.log('bread-crumbs added');
 	
-	//console.log('url:', url);
+	//build footer
 	var url = "/sitemaps/"+ct+".txt";
 	$.get(url, function(data){
 		data = readTextContent(data);
 		data.forEach(function(item, idx){
-			console.log('item:', item, 'idx:', idx);
+			//console.log('item:', item, 'idx:', idx);
 			if (item=="") return;
 			turl = new URL(item);
 			var params = new URLSearchParams(turl.search);
