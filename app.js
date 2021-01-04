@@ -82,9 +82,9 @@ window.addEventListener("DOMContentLoaded", function(){
 		
 		//add more crumbs to ldData
 		var obj = null;
-		obj = {"@type": "ListItem", "position": 2,"name": state, item:""}
+		obj = {"@type": "ListItem", "position": 2,item:{"name": state}}
 		ldData.itemListElement.push(obj);
-		obj = {"@type": "ListItem", "position": 3,"name": city, item:""}
+		obj = {"@type": "ListItem", "position": 3,item:{"name": city}}
 		ldData.itemListElement.push(obj);
 		obj = {"@type": "ListItem", "position": 4,"name": prof, 
 			item:"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city+"&prof="+prof}
