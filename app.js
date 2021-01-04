@@ -44,7 +44,8 @@ window.addEventListener("DOMContentLoaded", function(){
 		"itemListElement": [{
         "@type": "ListItem",
         "position": 1,
-        "item": {"name": ct, "@id":"https://" + DOMAIN + "?ct=" + ct}
+        "name": ct, 
+		"item":"https://" + DOMAIN + "?ct=" + ct
       }],
 	}
 	
@@ -81,11 +82,11 @@ window.addEventListener("DOMContentLoaded", function(){
 		
 		//add more crumbs to ldData
 		var obj = null;
-		obj = {"@type": "ListItem", "position": 2,item:{"@id":state, "name": state}}
+		obj = {"@type": "ListItem", "position": 2,"name": state,"item":"https://"+DOMAIN+"?ct="+ct+"&state="+state}
 		ldData.itemListElement.push(obj);
-		obj = {"@type": "ListItem", "position": 3,item:{"@id":city, "name": city}}
+		obj = {"@type": "ListItem", "position": 3,"name": city, "item":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city}
 		ldData.itemListElement.push(obj);
-		obj = {"@type": "ListItem", "position": 4, item:{"name":prof, "@id":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city+"&prof="+prof}}
+		obj = {"@type": "ListItem", "position": 4, "name":prof, "item":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city+"&prof="+prof}
 		ldData.itemListElement.push(obj);
 	}
 	
