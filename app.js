@@ -13,7 +13,7 @@ function showListings(ct, state, city, prof) {
 			html += "<td>"  + (idx+1) + "</td>"
 			
 			body = item.name + "<br>";
-			if (item.address) body += item.address + "<br>";
+			if (item.address) body += item.address + ",<br>";
 			
 			body += state + " " + city + " "
 			if (item.zip) body += item.zip 

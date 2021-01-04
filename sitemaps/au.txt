@@ -1,2 +1,4 @@
 https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Architects
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Dentists
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Lawyers
 https://artisansnearme.cf?ct=au&state=SA&city=Adelaide&prof=Carpenters
