@@ -1,0 +1,5 @@
+# Group 1
+User-agent: *
+Disallow: /data/
+
+Sitemap: https://www.artisansnearme.cf/sitemaps/index.xml
