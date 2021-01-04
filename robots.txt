@@ -1,4 +1,4 @@
 # Group 1
 User-agent: *
 
-Sitemap: https://www.artisansnearme.cf/sitemaps/index.xml
+Sitemap: https://artisansnearme.cf/sitemaps/index.xml
