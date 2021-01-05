@@ -1,25 +1,16 @@
-/**
-* Main stylesheet for blogger-mdn app
-*
-* @author Prahlad Yeri<prahladyeri@yahoo.com>
-* @license Apache-2.0
-* @date
-* created 2020-08-01
-*/
-
 body{
-	font-family: "segoe ui", arial;
+	font-family: "segoe ui";
 	font-size: 19px;
 }
 
 .lbl-header {
 	font-family: "segoe ui";
-	font-size: 42px;
+	font-size: 38px;
 }
 
 #footerBlock {
-	
-	font-size: 14px;
+	font-family: "trebuchet ms";
+	font-size: 16px;
 }
 
 /*li.nav-item.dropdown div.dropdown-menu a.dropdown-item:hover,

@@ -1,9 +1,19 @@
 https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Architects
 https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Dentists
 https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Lawyers
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Accountants
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Carpenters
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&prof=Doctors
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&suburb=Pyrmont&prof=Doctors
+https://artisansnearme.cf?ct=au&state=NSW&city=Sydney&suburb=Surry Hills&prof=Doctors
 https://artisansnearme.cf?ct=au&state=SA&city=Adelaide&prof=Carpenters
 https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Architects
 https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Dentists
 https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Electricians
+https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Plumbers
+https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Web Designers
 https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Carpenters
 https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Dentists
+https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Plumbers
+https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Web Designers
+https://artisansnearme.cf?ct=au&state=QLD&city=Brisbane&prof=Plumbers

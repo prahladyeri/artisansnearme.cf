@@ -5,23 +5,32 @@ function readTextContent(data) {
 	return data.replace(/\r\n/g, "\r").replace(/\n/g, "\r").split(/\r/);
 }
 
-function showListings(ct, state, city, prof) {
-	var url = "/data/"+ct+"/"+state+"/"+city+"/"+prof+".json";
+function showListings(ct, state, city, prof, suburb) {
+	var url = null;
+	if (suburb) {
+		url = "/data/"+ct+"/"+state+"/"+city+"/"+suburb+"/"+prof+".json";	
+	}
+	else {
+		url = "/data/"+ct+"/"+state+"/"+city+"/"+prof+".json";
+	}
 	$.getJSON(url, function(data){
 		data.data.forEach(function(item, idx){
 			//console.log("item:", item, "idx:", idx);
 			html = "<tr>";
 			html += "<td>"  + (idx+1) + "</td>"
 			
-			body = item.name + "<br>";
+			
+			var nametg = (item.url ? "<a target='_blank'  href='"+item.url+"'>"+item.name+"</a>" : item.name);
+			
+			var body = nametg + "<br>";
 			if (item.address) body += item.address + ",<br>";
 			
 			body += state + " " + city + " "
 			if (item.zip) body += item.zip 
 			body += "<br>";
 			
-			body += "Phone: " + item.phone + "<br>";
-			if (item.url) body += "Website: <a target='_blank' href='" + item.url + "'>" + item.url + "</a><br>";
+			if (item.phone) body += "Phone: " + item.phone + "<br>";
+			//if (item.url) body += "Website: <a target='_blank' href='" + item.url + "'>" + item.url + "</a><br>";
 			
 			html += "<td>"  + body + "</td>"
 			html += "</tr>";
@@ -37,6 +46,7 @@ window.addEventListener("DOMContentLoaded", function(){
 	var state = urlParams.get('state');
 	var city = urlParams.get('city');
 	var prof = urlParams.get('prof');
+	var suburb = urlParams.get('suburb');
 	
 	var ldData = { //for bread-crumbs
 		"@context":  "https://schema.org",
@@ -78,7 +88,11 @@ window.addEventListener("DOMContentLoaded", function(){
 		var title = prof + " in " + city + ", " + state;
 		document.title = title + " - " + document.title;
 		$("#lblTitle").text(title);
-		showListings(ct, state, city, prof);
+		if (suburb != null) {
+			//var suburbtg = "<small>("+suburb+" suburb)</small>";
+			$("#lblSuburb").text("("+suburb+" Suburb)");
+		}
+		showListings(ct, state, city, prof, suburb);
 		
 		//add more crumbs to ldData
 		var obj = null;
@@ -86,7 +100,13 @@ window.addEventListener("DOMContentLoaded", function(){
 		ldData.itemListElement.push(obj);
 		obj = {"@type": "ListItem", "position": 3,"name": city, "item":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city}
 		ldData.itemListElement.push(obj);
-		obj = {"@type": "ListItem", "position": 4, "name":prof, "item":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city+"&prof="+prof}
+		tcnt  = 4
+		if (suburb!=null) {
+			obj = {"@type": "ListItem", "position": tcnt, "name":suburb, "item":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city+"&suburb="+suburb}
+			ldData.itemListElement.push(obj);
+			tcnt += 1;
+		}
+		obj = {"@type": "ListItem", "position": tcnt, "name":prof, "item":"https://"+DOMAIN+"?ct="+ct+"&state="+state+"&city="+city+"&prof="+prof}
 		ldData.itemListElement.push(obj);
 	}
 	
@@ -107,10 +127,15 @@ window.addEventListener("DOMContentLoaded", function(){
 			if (item=="") return;
 			turl = new URL(item);
 			var params = new URLSearchParams(turl.search);
-			var ss = params.get('prof') + " in " + params.get('city');
-			var elem = "<a class='text-danger' href='" + item + "'>" + ss + "</a>" + "<br>";
+			var suburb = params.get('suburb');
+			var ss = params.get('prof') + " in " 
+			if (suburb != null) {
+				ss += suburb + ", ";
+			}
+			ss += params.get('city');
+			var elem = "<a class='text-success' href='" + item + "'>" + ss + "</a>" + "&nbsp;";
 			$("#footerBlock").append(elem);
 		});
-		$("#footerBlock").append("<br>");
+		$("#footerBlock").append("<br><br>");
 	});
 });
