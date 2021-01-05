@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "name": "Sam Teoh Architects",
+      "address": "Perth WA, Australia",
+      "phone": "+61 8 9388 8338",
+      "url": "http://www.samteoh.com.au/"
+    },
+    {
+      "name": "Lyons Architects",
+      "address": "West Perth WA, Australia",
+      "phone": "+61 8 9481 2225"
+    },
+    {
+      "name": "DAVID BARR ARCHITECTS",
+      "address": "Fremantle WA, Australia",
+      "phone": "+61 438 895 119",
+      "url": "http://www.davidbarrarchitects.com.au/"
+    },
+    {
+      "name": "Suzanne Hunt Architect",
+      "address": "Nedlands WA, Australia",
+      "phone": "+61 8 6113 3954",
+      "url": "http://www.suzannehuntarchitect.com.au/"
+    },
+    {
+      "name": "Anthony Rechichi - Best Commercial Architect & Residential Architect Firm in Perth, Australia",
+      "phone": "+61 8 9325 1188",
+      "url": "http://www.rechichiarchitects.com.au/"
+    },
+    {
+      "name": "Parry and Rosenthal Architects",
+      "address": "West Perth WA, Australia",
+      "phone": "+61 8 9481 0540",
+      "url": "https://parryandrosenthal.com.au/"
+    },
+    {
+      "name": "Mountford Architects",
+      "url": "http://www.marchitects.com.au/"
+    },
+    {
+      "name": "MIKE EDWARDS ARCHITECTURE",
+      "address": "Fremantle WA, Australia",
+      "phone": "+61 1800 832 770",
+      "url": "http://www.mikeedwardsarchitecture.com/"
+    },
+    {
+      "name": "Chindarsi Architects",
+      "address": "Highgate WA, Australia",
+      "phone": "+61 8 9328 7238",
+      "url": "https://chindarsi.com.au/"
+    },
+    {
+      "name": "Craig Steere Architects",
+      "phone": "+61 8 9380 4662",
+      "url": "http://www.craigsteerearchitects.com.au/"
+    },
+    {
+      "name": "Hart Architects",
+      "url": "https://hartarchitects.com.au/"
+    },
+    {
+      "name": "Site Architecture Studio",
+      "address": "Perth WA, Australia",
+      "phone": "+61 8 9226 5661",
+      "url": "http://www.sitearchitecture.com.au/"
+    },
+    {
+      "name": "With_Architecture Studio",
+      "address": "Perth WA, Australia",
+      "phone": "+61 8 9328 4475",
+      "url": "http://www.withstudio.com.au/"
+    },
+    {
+      "name": "Boughton Architecture",
+      "phone": "+61 8 6380 1555"
+    },
+    {
+      "name": "Plus Architecture",
+      "phone": "+61 8 6500 6490",
+      "url": "http://www.plusarchitecture.com.au/"
+    },
+    {
+      "name": "The Architecture Group",
+      "address": "Perth WA, Australia",
+      "phone": "+61 8 9227 0511",
+      "url": "http://tagarchitects.com.au/"
+    },
+    {
+      "name": "MHPA STUDIO ARCHITECTURE",
+      "url": "http://www.mhpastudio.com/"
+    },
+    {
+      "name": "Cameron Chisholm Nicol",
+      "address": "Perth WA, Australia",
+      "phone": "+61 8 9322 1566",
+      "url": "http://www.ccnwa.com.au/"
+    },
+    {
+      "name": "Peter Hunt Architect",
+      "address": "West Perth WA, Australia",
+      "phone": "+61 8 9322 6033",
+      "url": "https://peterhunt.com.au/"
+    },
+    {
+      "name": "Cottee Parker Architects Perth",
+      "address": "Perth WA, Australia",
+      "phone": "+61 8 6112 0100",
+      "url": "http://www.cotteeparker.com.au/"
+    }
+  ]
+}

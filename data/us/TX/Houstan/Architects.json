@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "name": "Kirksey Architecture",
+      "address": "6909 Portwest Dr",
+      "phone": "+1 713-850-9600",
+      "url": "http://www.kirksey.com/"
+    },
+    {
+      "name": "Cusimano Architect",
+      "address": "4511 Nett St",
+      "phone": "+1 832-465-0419",
+      "url": "http://www.cusimano-architect.com/"
+    },
+    {
+      "name": "StudioMET Architects",
+      "address": "2500 Summer St #3112 · In 2500 Summer Street",
+      "phone": "+1 713-255-0008",
+      "url": "http://www.studiomet.com/"
+    },
+    {
+      "name": "Ziegler Cooper Architects",
+      "address": "700 Louisiana St · In the Bank Of America Center",
+      "phone": "+1 713-374-0000",
+      "url": "http://www.zieglercooper.com/"
+    },
+    {
+      "name": "Studio RED Architects",
+      "address": "1320 McGowen St",
+      "phone": "+1 713-622-5333",
+      "url": "http://www.studioredarchitects.com/"
+    },
+    {
+      "name": "Rice Residential Design, L.L.C.",
+      "address": "2500 Fondren Rd · In Piney Point Offices",
+      "phone": "+1 713-984-8604",
+      "url": "http://www.riceresidentialdesign.com/"
+    },
+    {
+      "name": "Jay Baker Architects",
+      "url": "http://www.jaybakerarchitects.com/"
+    },
+    {
+      "name": "Dillon Kyle Architects",
+      "address": "1500 W Alabama St",
+      "phone": "+1 713-520-8792",
+      "url": "http://www.dkarc.com/"
+    },
+    {
+      "name": "Jackson&Ryan Architects",
+      "url": "http://www.jacksonryan.com/"
+    },
+    {
+      "name": "PDG Architects",
+      "address": "10000 Richmond Ave # 100",
+      "phone": "+1 713-629-6100",
+      "url": "https://www.pdgarchitects.com/"
+    },
+    {
+      "name": "Montgomery Roth Architecture & Interior Design, LLC",
+      "address": "5120 Woodway Dr Suite 3039 · In Decorative Center of Houston",
+      "phone": "+1 713-654-9400",
+      "url": "http://www.montgomeryroth.com/"
+    },
+    {
+      "name": "CONTENT Architecture",
+      "address": "3221 Milam St #1",
+      "phone": "+1 713-230-8867",
+      "url": "http://www.contentarchitecture.com/"
+    },
+    {
+      "name": "M Architects LLC",
+      "address": "1206 Nance St",
+      "phone": "+1 713-227-0070",
+      "url": "http://www.m-architects.com/"
+    },
+    {
+      "name": "PBK Architects Inc",
+      "address": "11 E Greenway Plaza 22nd fl · In Greenway Plaza",
+      "phone": "+1 800-938-7272",
+      "url": "http://www.pbk.com/"
+    },
+    {
+      "name": "AIA Houston",
+      "address": "Architecture Center, 902 Commerce St",
+      "phone": "+1 713-520-0155",
+      "url": "http://www.aiahouston.org/"
+    },
+    {
+      "name": "AMB Architects",
+      "address": "5051 Westheimer Rd #430 · In The Galleria",
+      "phone": "+1 713-350-3400",
+      "url": "http://www.ambarchitects.com/"
+    },
+    {
+      "name": "Morningside Architects",
+      "address": "4229 Bellaire Blvd",
+      "phone": "+1 713-529-2630",
+      "url": "https://www.morningsidearchitects.com/"
+    },
+    {
+      "name": "Albarran Architects LLC",
+      "address": "4306 Yoakum Blvd #325 · In The Campanile building",
+      "phone": "+1 832-687-0178",
+      "url": "http://albarranarchitects.com/"
+    },
+    {
+      "name": "Brett Zamore Design",
+      "address": "1501 Laird St",
+      "phone": "+1 713-623-1926",
+      "url": "http://brettzamoredesign.com/"
+    },
+    {
+      "name": "MG Architects",
+      "address": "14333 Grisby Rd",
+      "phone": "+1 713-552-0707",
+      "url": "http://www.mgarchitects.com/"
+    }
+  ]
+}

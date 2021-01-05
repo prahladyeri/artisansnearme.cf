@@ -12,8 +12,14 @@ https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Dentists
 https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Electricians
 https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Plumbers
 https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Web Designers
+https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Pediatricians
+https://artisansnearme.cf?ct=au&state=VIC&city=Melbourne&prof=Nurses
 https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Carpenters
 https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Dentists
 https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Plumbers
 https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Web Designers
+https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Mechanics
+https://artisansnearme.cf?ct=au&state=WA&city=Perth&prof=Architects
 https://artisansnearme.cf?ct=au&state=QLD&city=Brisbane&prof=Plumbers
+https://artisansnearme.cf?ct=au&state=QLD&city=Brisbane&prof=Psychologists
+https://artisansnearme.cf?ct=au&state=QLD&city=Brisbane&prof=Orthodontists

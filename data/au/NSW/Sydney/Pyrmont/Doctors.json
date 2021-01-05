@@ -10,18 +10,13 @@
 		{
 		  "name": "Pyrmont Medical Centre",
 		  "address": "shop 142/313 Harris St",
-		  "phone": "+61 2 9660 8145",
-		  "url": "https://www.google.com/search?newwindow=1&biw=1366&bih=568&tbm=lcl&sxsrf=ALeKk01AVYcRA1qtE61bZeIl1xwhuMh-uA%3A1609845610653&ei=akv0X5WfJ7ib4-EPkqezQA&q=doctors+in+pyrmont+sydney&oq=doctors+in+pyrmont+sydney&gs_l=psy-ab.3..0i457i22i30k1j0i22i30k1.1132764.1132764.0.1133525.1.1.0.0.0.0.553.553.5-1.1.0....0...1c.1.64.psy-ab..0.1.550....0.i5pwxowwyNk#"
+		  "phone": "+61 2 9660 8145"
 		},
 		{
 		  "name": "Star City Medical Centre - Pyrmont, NSW",
 		  "address": "Shop 9/55 Harris St",
 		  "phone": "+61 2 9518 6666",
 		  "url": "http://www.starcitymedicalcentre.com.au/"
-		},
-		{
-		  "name": "Little Juliette Dr",
-		  "url": "https://www.google.com/search?newwindow=1&biw=1366&bih=568&tbm=lcl&sxsrf=ALeKk01AVYcRA1qtE61bZeIl1xwhuMh-uA%3A1609845610653&ei=akv0X5WfJ7ib4-EPkqezQA&q=doctors+in+pyrmont+sydney&oq=doctors+in+pyrmont+sydney&gs_l=psy-ab.3..0i457i22i30k1j0i22i30k1.1132764.1132764.0.1133525.1.1.0.0.0.0.553.553.5-1.1.0....0...1c.1.64.psy-ab..0.1.550....0.i5pwxowwyNk#"
 		},
 		{
 		  "name": "The Blackwattle Clinic Private Psychiatry Pyrmont",
@@ -43,8 +38,7 @@
 		},
 		{
 		  "name": "Dr Bosnich",
-		  "phone": "+61 1300 360 764",
-		  "url": "https://www.google.com/search?newwindow=1&biw=1366&bih=568&tbm=lcl&sxsrf=ALeKk01AVYcRA1qtE61bZeIl1xwhuMh-uA%3A1609845610653&ei=akv0X5WfJ7ib4-EPkqezQA&q=doctors+in+pyrmont+sydney&oq=doctors+in+pyrmont+sydney&gs_l=psy-ab.3..0i457i22i30k1j0i22i30k1.1132764.1132764.0.1133525.1.1.0.0.0.0.553.553.5-1.1.0....0...1c.1.64.psy-ab..0.1.550....0.i5pwxowwyNk#"
+		  "phone": "+61 1300 360 764"
 		},
 		{
 		  "name": "Pyrmont Dental Specialist",
@@ -59,8 +53,8 @@
 		},
 		{
 		  "name": "Dr Angelia Tjokrowidjaja",
-		  "phone": "+61 2 8999 0550",
-		  "url": "https://pyrmontdoctors.com/doctors-practitioners/dr-angelia-tjokrowidjaja/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=Dr%20Angelia%20Tjokrowidjaja"
+		  "phone": "+61 2 8999 0550"
+		  
 		},
 		{
 		  "name": "Myhealth Medical Centre Darling Square",
@@ -104,8 +98,7 @@
 		{
 		  "name": "Dr Ho Eric",
 		  "address": "Near the Chinese Garden of Friendship",
-		  "phone": "+61 2 9267 3389",
-		  "url": "https://www.google.com/search?newwindow=1&biw=1366&bih=568&tbm=lcl&sxsrf=ALeKk01AVYcRA1qtE61bZeIl1xwhuMh-uA%3A1609845610653&ei=akv0X5WfJ7ib4-EPkqezQA&q=doctors+in+pyrmont+sydney&oq=doctors+in+pyrmont+sydney&gs_l=psy-ab.3..0i457i22i30k1j0i22i30k1.1132764.1132764.0.1133525.1.1.0.0.0.0.553.553.5-1.1.0....0...1c.1.64.psy-ab..0.1.550....0.i5pwxowwyNk#"
+		  "phone": "+61 2 9267 3389"
 		},
 		{
 		  "name": "Dr Rhett Bosnich",

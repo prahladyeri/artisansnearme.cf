@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "name": "Dental Care Seattle",
+      "address": "600 Broadway #330",
+      "phone": "+1 206-325-0166",
+      "url": "http://www.dentalcareseattle.com/"
+    },
+    {
+      "name": "Downtown Seattle Dentists",
+      "address": "509 Olive Way #1132 · In Medical Dental Building",
+      "phone": "+1 206-438-9400",
+      "url": "http://www.downtownseattledentists.com/"
+    },
+    {
+      "name": "Dentist Downtown Seattle",
+      "address": "2045 Westlake Ave",
+      "phone": "+1 206-207-0200",
+      "url": "http://www.dentistdowntownseattle.com/"
+    },
+    {
+      "name": "Washington Dental Clinic",
+      "address": "4543 Rainier Ave S",
+      "phone": "+1 206-722-8211",
+      "url": "http://www.wadentalclinic.com/"
+    },
+    {
+      "name": "Seattle's Family Dentistry",
+      "address": "10416 Aurora Ave N",
+      "phone": "+1 206-466-2424",
+      "url": "http://www.seattlesfamilydentistry.com/"
+    },
+    {
+      "name": "Simply Dental",
+      "address": "724 Denny Way",
+      "phone": "+1 206-466-2623",
+      "url": "http://www.simplydentalseattle.com/"
+    },
+    {
+      "name": "Thomas McKenny, DDS & Associates",
+      "address": "509 Olive Way #1640 · In Medical Dental Building",
+      "phone": "+1 206-682-3135",
+      "url": "http://dentaltom.com/"
+    },
+    {
+      "name": "Emergency Dental Care USA",
+      "address": "511 Olive Way · In Medical Dental Building",
+      "phone": "+1 206-452-3185",
+      "url": "https://www.emergencydental.com/seattle"
+    },
+    {
+      "name": "Seattle Specialty Dentistry",
+      "address": "509 Olive Way #1438 · In Medical Dental Building",
+      "phone": "+1 206-682-3383",
+      "url": "https://www.seattledentistry.com/"
+    },
+    {
+      "name": "4th & Seneca Dental",
+      "address": "1119 4th Ave",
+      "phone": "+1 206-623-4400",
+      "url": "https://www.4thandsenecadental.com/"
+    },
+    {
+      "name": "Integrative Dentistry",
+      "address": "9730 3rd Ave NE Suite 205 · In Northgate Executive Center",
+      "phone": "+1 206-367-6453",
+      "url": "http://www.integrativedentistry.com/"
+    },
+    {
+      "name": "8 to 8 Dental",
+      "address": "220 Broadway E",
+      "phone": "+1 206-686-3828",
+      "url": "http://www.8to8dentalcare.com/"
+    },
+    {
+      "name": "North Seattle Dental",
+      "address": "11011 Meridian Ave N # 301",
+      "phone": "+1 206-524-1000",
+      "url": "http://www.northseattledental.com/"
+    },
+    {
+      "name": "Downtown Dentistry",
+      "address": "925 4th Ave Suite 410",
+      "phone": "+1 206-624-9912",
+      "url": "http://www.kathycurtisdds.com/"
+    },
+    {
+      "name": "Fremont Dental",
+      "address": "3601 Fremont Ave N #400 · In Fremont Village Square",
+      "phone": "+1 206-675-0366",
+      "url": "http://www.fremontdental.com/"
+    },
+    {
+      "name": "Seattle Kids Dentistry",
+      "address": "945 Elliott Ave W #101",
+      "phone": "+1 206-743-8660",
+      "url": "http://www.seattlekidsdentistry.com/"
+    },
+    {
+      "name": "Sound Dentistry",
+      "address": "720 Olive Way #830",
+      "phone": "+1 206-623-2273",
+      "url": "http://sounddentistry.com/"
+    },
+    {
+      "name": "West Edge Dental, Jessica J. Emard DMD",
+      "address": "88 Spring St #100",
+      "phone": "+1 206-624-8500",
+      "url": "http://www.westedgedental.com/"
+    },
+    {
+      "name": "Precision Dental of Seattle",
+      "address": "9730 3rd Ave NE UNIT 105",
+      "phone": "+1 206-526-1985",
+      "url": "http://www.precisiondentalofseattle.com/"
+    },
+    {
+      "name": "The Downtown Seattle Dentist",
+      "address": "511 Boren Ave N #100",
+      "phone": "+1 206-364-0231",
+      "url": "https://thedowntownseattledentist.com/"
+    }
+  ]
+}

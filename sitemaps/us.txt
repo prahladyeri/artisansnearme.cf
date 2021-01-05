@@ -1,3 +1,16 @@
 https://artisansnearme.cf?ct=us&state=OH&city=Columbus&prof=Pediatricians
 https://artisansnearme.cf?ct=us&state=OH&city=Cleveland&prof=Pediatricians
+https://artisansnearme.cf?ct=us&state=OH&city=Cleveland&prof=Dentists
 https://artisansnearme.cf?ct=us&state=TX&city=San Antonio&prof=Pediatricians
+https://artisansnearme.cf?ct=us&state=TX&city=San Antonio&prof=Veterinarians
+https://artisansnearme.cf?ct=us&state=TX&city=Houstan&prof=Architects
+https://artisansnearme.cf?ct=us&state=TX&city=Houstan&prof=Doctors
+https://artisansnearme.cf?ct=us&state=TX&city=Houstan&prof=Orthodontists
+https://artisansnearme.cf?ct=us&state=PA&city=Philadelphia&prof=Web Designers
+https://artisansnearme.cf?ct=us&state=PA&city=Philadelphia&prof=Architects
+https://artisansnearme.cf?ct=us&state=WA&city=Seattle&prof=Architects
+https://artisansnearme.cf?ct=us&state=WA&city=Seattle&prof=Web Designers
+https://artisansnearme.cf?ct=us&state=WA&city=Seattle&prof=Dentists
+https://artisansnearme.cf?ct=us&state=WA&city=Seattle&prof=Electricians
+https://artisansnearme.cf?ct=us&state=WA&city=Tacoma&prof=Electricians
+https://artisansnearme.cf?ct=us&state=WA&city=Tacoma&prof=Dentists

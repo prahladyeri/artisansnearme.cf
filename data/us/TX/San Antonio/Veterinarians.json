@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "name": "North Star Animal Hospital",
+      "address": "7227 San Pedro Ave",
+      "phone": "+1 210-342-7387",
+      "url": "http://sanantoniotxvet.com/"
+    },
+    {
+      "name": "City Veterinary Hospital",
+      "address": "818 Austin St",
+      "phone": "+1 210-225-6531",
+      "url": "https://www.cityvetsa.com/"
+    },
+    {
+      "name": "Great Northwest Animal Hospital",
+      "address": "8843 Grissom Rd",
+      "phone": "+1 210-681-4278",
+      "url": "http://www.gnwah.com/"
+    },
+    {
+      "name": "Babcock Hills Veterinary Hospital",
+      "address": "6600 Prue Rd",
+      "phone": "+1 210-697-8581",
+      "url": "http://babcockhills.com/"
+    },
+    {
+      "name": "Deerfield Animal Hospital",
+      "address": "14855 Blanco Rd #104 · In Court Yard At Camino Real",
+      "phone": "+1 210-492-5575",
+      "url": "https://www.deerfieldanimalhospital.com/?utm_source=gmb&utm_medium=organic"
+    },
+    {
+      "name": "Alamo Heights Pet Clinic",
+      "address": "6488 N New Braunfels Ave · In Sunset Ridge Shopping Center",
+      "phone": "+1 210-821-5544",
+      "url": "http://www.alamoheightspetclinic.com/"
+    },
+    {
+      "name": "Pets First Veterinary Center",
+      "address": "1806 NW Military Hwy",
+      "phone": "+1 210-349-9393",
+      "url": "http://www.petsfirstvet.com/"
+    },
+    {
+      "name": "Lincoln Heights Animal Hospital",
+      "address": "7510 Broadway · In The Shops at Lincoln Heights",
+      "phone": "+1 210-826-6100",
+      "url": "http://lhanimalhospital.com/"
+    },
+    {
+      "name": "Alamo Hills Animal Hospital",
+      "address": "1242 Austin Hwy Suite 102",
+      "phone": "+1 210-804-2000",
+      "url": "http://www.alamohillsanimalhospital.com/"
+    },
+    {
+      "name": "Acres North Animal Hospital",
+      "address": "16302 San Pedro Ave",
+      "phone": "+1 210-494-3436",
+      "url": "http://acresnorthanimalhospital.com/"
+    },
+    {
+      "name": "Rigsby Veterinary Clinic",
+      "address": "4831 Rigsby Ave",
+      "phone": "+1 210-648-3183",
+      "url": "http://www.rigsbyveterinaryclinic.com/"
+    },
+    {
+      "name": "Churchill Veterinary Hospital",
+      "address": "11722 West Ave",
+      "phone": "+1 210-344-8961",
+      "url": "http://www.churchillvets.com/"
+    },
+    {
+      "name": "Alamo Dog & Cat Hospital",
+      "address": "1619 Pleasanton Rd",
+      "phone": "+1 210-922-1231",
+      "url": "http://www.alamodogandcat.com/"
+    },
+    {
+      "name": "Texas Veterinary Hospital",
+      "address": "3493 Fredericksburg Rd",
+      "phone": "+1 210-732-1981",
+      "url": "http://www.texasveterinaryhospitals.com/"
+    },
+    {
+      "name": "Potranco Veterinary Clinic",
+      "address": "10839 Potranco Rd",
+      "phone": "+1 210-521-4813",
+      "url": "http://www.ellisondrivevet.com/"
+    },
+    {
+      "name": "DeZavala-Shavano Veterinary Clinic",
+      "address": "4408 Lockhill Selma Rd",
+      "phone": "+1 210-699-3939",
+      "url": "http://www.dezavalavet.com/"
+    },
+    {
+      "name": "Animal Hospital of San Antonio",
+      "address": "2210 Northwest Loop 410",
+      "phone": "+1 210-344-9741",
+      "url": "http://www.animalhospitalsanantonio.com/"
+    },
+    {
+      "name": "Oaks North Animal Hospital",
+      "address": "10935 Wurzbach Rd Ste 302 · In National Youth Sports",
+      "phone": "+1 210-697-9585",
+      "url": "http://www.oaksnorthanimalhospital.com/"
+    },
+    {
+      "name": "Southeast Animal Hospital",
+      "address": "3608 S Gevers St",
+      "phone": "+1 210-534-4300",
+      "url": "http://southeastanimalhospital.com/"
+    },
+    {
+      "name": "Eagle Veterinary Hospital",
+      "address": "4701 McCullough Ave",
+      "phone": "+1 210-822-5211",
+      "url": "http://www.eagle-vet.com/"
+    }
+  ]
+}
