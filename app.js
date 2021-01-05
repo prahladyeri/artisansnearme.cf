@@ -71,7 +71,8 @@ window.addEventListener("DOMContentLoaded", function(){
 				parts = url.pathname.split('/');
 				ct = parts[parts.length-1].split('.txt')[0];
 				//$("#lblTitle").text(ct  + " - " + document.title);
-				$("#articleBlock").append("<a href='/?ct="+ct+"'><h1>"+ct+"</h1></a>");
+				spritetg = "<span class='f32'><span class='flag "+ct+"'></span></span>"
+				$("#articleBlock").append(spritetg+"&nbsp;<a class='display-4' href='/?ct="+ct+"'>"+ct+"</a>");
 				$("#articleBlock").append("<br>");
 			};
 			//parser = new DOMParser();
