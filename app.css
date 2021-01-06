@@ -1,6 +1,6 @@
 body{
 	font-family: "segoe ui";
-	font-size: 19px;
+	font-size: 17px;
 }
 
 .lbl-header {
@@ -9,8 +9,15 @@ body{
 }
 
 #footerBlock {
-	font-family: "trebuchet ms";
-	font-size: 16px;
+	font-family: "verdana";
+	font-size: 14px;
+}
+
+#footerBlock a.link {
+	display: inline-block;
+	min-width: 224px !important;
+	max-width: 224px !important;
+	/*white-space: nowrap;*/
 }
 
 /*li.nav-item.dropdown div.dropdown-menu a.dropdown-item:hover,

@@ -14,3 +14,9 @@ https://artisansnearme.cf?ct=us&state=WA&city=Seattle&prof=Dentists
 https://artisansnearme.cf?ct=us&state=WA&city=Seattle&prof=Electricians
 https://artisansnearme.cf?ct=us&state=WA&city=Tacoma&prof=Electricians
 https://artisansnearme.cf?ct=us&state=WA&city=Tacoma&prof=Dentists
+https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Kent&prof=Doctors
+https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Kent&prof=Dentists
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Jamaica&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Midtown&prof=Dentists
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Glendale&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Flushing&prof=Lawyers

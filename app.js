@@ -135,7 +135,7 @@ window.addEventListener("DOMContentLoaded", function(){
 				ss += suburb + ", ";
 			}
 			ss += params.get('city');
-			var elem = "<a class='text-success' href='" + item + "'>" + ss + "</a>" + "&nbsp;";
+			var elem = "<a class='text-success link' href='" + item + "'>" + ss + "</a>" + "&nbsp;";
 			$("#footerBlock").append(elem);
 		});
 		$("#footerBlock").append("<br><br>");
