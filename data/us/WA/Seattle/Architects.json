@@ -4,117 +4,137 @@
       "name": "Lane Williams Architects",
       "address": "3046 17th Ave W Suite 01",
       "phone": "+1 206-284-8355",
-      "url": "http://www.lanewilliams.com/"
-    },
-    {
-      "name": "Board & Vellum",
-      "address": "115 15th Ave E #100",
-      "phone": "+1 206-707-8895",
-      "url": "http://www.boardandvellum.com/"
+      "url": "http://www.lanewilliams.com/",
+      "zip": "98119"
     },
     {
       "name": "SHED Architecture & Design",
       "address": "1401 S Jackson St",
       "phone": "+1 206-320-8700",
-      "url": "http://www.shedbuilt.com/"
+      "url": "http://www.shedbuilt.com/",
+      "zip": "98144"
     },
     {
-      "name": "ZGF Architects | Seattle",
+      "name": "Board & Vellum",
+      "address": "115 15th Ave E #100",
+      "phone": "+1 206-707-8895",
+      "url": "http://www.boardandvellum.com/",
+      "zip": "98112"
+    },
+    {
+      "name": "ZGF Architects",
       "address": "925 4th Ave UNIT 2400 · In Fourth & Madison",
       "phone": "+1 206-623-9414",
-      "url": "https://www.zgf.com/"
+      "url": "https://www.zgf.com/",
+      "zip": "98104"
     },
     {
       "name": "Vandervort Architects",
       "address": "2000 Fairview Ave E # 103",
       "phone": "+1 206-784-1614",
-      "url": "http://vandervort.com/"
+      "url": "https://vandervort.com/",
+      "zip": "98102"
     },
     {
       "name": "Prentiss Balance Wickline Architects",
       "phone": "+1 206-283-9930",
-      "url": "http://www.pbwarchitects.com/"
+      "url": "http://www.pbwarchitects.com/",
+      "zip": "98119"
     },
     {
       "name": "SkB Architects",
       "address": "2333 3rd Ave",
       "phone": "+1 206-903-0575",
-      "url": "http://www.skbarchitects.com/"
+      "url": "http://www.skbarchitects.com/",
+      "zip": "98121"
     },
     {
       "name": "ARC Architects",
       "address": "119 South Main St #200",
       "phone": "+1 206-322-3322",
-      "url": "http://www.arcarchitects.com/"
+      "url": "http://www.arcarchitects.com/",
+      "zip": "98104"
     },
     {
       "name": "Heliotrope Architects",
       "address": "5140 Ballard Ave NW # B",
       "phone": "+1 206-297-0442",
-      "url": "http://heliotropearchitects.com/"
-    },
-    {
-      "name": "NBBJ",
-      "address": "223 Yale Ave N",
-      "phone": "+1 206-223-5555",
-      "url": "http://www.nbbj.com/"
-    },
-    {
-      "name": "McClellan Architects",
-      "phone": "+1 206-728-0480",
-      "url": "http://www.mccarch.com/"
+      "url": "http://heliotropearchitects.com/",
+      "zip": "98107"
     },
     {
       "name": "Bjarko Serra Architects",
       "address": "7001 3rd Ave NW",
       "phone": "+1 206-545-1443",
-      "url": "http://www.bjarkoserra.com/"
+      "url": "http://www.bjarkoserra.com/",
+      "zip": "98117"
     },
     {
-      "name": "Rhodes Architecture & Light",
-      "address": "4218 SW Alaska St #4525",
-      "phone": "+1 206-933-1257",
-      "url": "http://www.rhodesarchitecture.com/"
+      "name": "NBBJ",
+      "address": "223 Yale Ave N",
+      "phone": "+1 206-223-5555",
+      "url": "http://www.nbbj.com/",
+      "zip": "98109"
+    },
+    {
+      "name": "McClellan Architects",
+      "phone": "+1 206-728-0480",
+      "url": "http://www.mccarch.com/",
+      "zip": "98103"
     },
     {
       "name": "Grouparchitect",
       "phone": "+1 206-365-1230",
-      "url": "https://www.grouparch.com/"
+      "url": "https://www.grouparch.com/",
+      "zip": "98109"
     },
     {
       "name": "Johnston Architects",
       "address": "100 NE Northlake Way #200",
       "phone": "+1 206-523-6150",
-      "url": "http://www.johnstonarchitects.com/"
+      "url": "http://www.johnstonarchitects.com/",
+      "zip": "98105"
     },
     {
       "name": "B9 Architects",
       "address": "610 2nd Ave",
       "phone": "+1 206-297-1284",
-      "url": "http://www.b9architects.com/"
+      "url": "http://www.b9architects.com/",
+      "zip": "98104"
     },
     {
       "name": "Find Us - Architect Seattle",
       "address": "2216 E Madison St",
       "phone": "+1 855-212-8008",
-      "url": "http://www.architects.us.org/washington/seattle/architects-seattle/"
+      "url": "http://www.architects.us.org/washington/seattle/architects-seattle/",
+      "zip": "98112"
     },
     {
       "name": "David Coleman / Architecture",
       "address": "202 N 36th St",
       "phone": "+1 206-443-5626",
-      "url": "http://www.davidcoleman.com/"
+      "url": "http://www.davidcoleman.com/",
+      "zip": "98103"
+    },
+    {
+      "name": "Bassetti Architects",
+      "address": "71 Columbia St # 500",
+      "phone": "+1 206-340-9500",
+      "url": "https://www.bassettiarch.com/",
+      "zip": "98104"
     },
     {
       "name": "Garret Cord Werner Architects & Interior Designers",
       "address": "3132 Western Ave · Near the Olympic Sculpture Park",
       "phone": "+1 800-478-1956",
-      "url": "http://www.garretcordwerner.com/"
+      "url": "http://www.garretcordwerner.com/",
+      "zip": "98121"
     },
     {
       "name": "ALCOVA Architecture Company",
       "phone": "+1 206-418-6777",
-      "url": "http://www.alcovaarch.com/"
+      "url": "http://www.alcovaarch.com/",
+      "zip": "98117"
     }
   ]
 }

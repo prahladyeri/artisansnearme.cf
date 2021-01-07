@@ -4,19 +4,22 @@
       "name": "Doctors Clinic Houston - West Memorial",
       "address": "14770 Memorial Dr",
       "phone": "+1 281-496-7333",
-      "url": "https://doctorsclinichouston.com/"
+      "url": "https://doctorsclinichouston.com/",
+      "zip": "77079"
     },
     {
       "name": "Medical Clinic of Houston, LLP",
       "address": "1701 Sunset Blvd",
       "phone": "+1 713-526-5511",
-      "url": "https://mchllp.com/"
+      "url": "https://mchllp.com/",
+      "zip": "77005"
     },
     {
       "name": "Doctors Clinic Houston - North Freeway",
       "address": "14755 North Fwy #400",
       "phone": "+1 281-876-2500",
-      "url": "http://doctorsclinichouston.com/houston-locations-contact/north-freeway/"
+      "url": "http://doctorsclinichouston.com/houston-locations-contact/north-freeway/",
+      "zip": "77090"
     },
     {
       "name": "Terence M Chang MD PLLC: House Call Doctor in Houston",
@@ -27,91 +30,109 @@
       "name": "Doctors Clinic Houston - Southwest Freeway",
       "address": "6535 Southwest Fwy",
       "phone": "+1 713-981-8184",
-      "url": "http://www.doctorsclinichouston.com/"
+      "url": "http://www.doctorsclinichouston.com/",
+      "zip": "77074"
     },
     {
       "name": "Houston Family Physicians PA",
       "address": "8968 Kirby Dr",
       "phone": "+1 281-704-3836",
-      "url": "http://houstonfamilyphysicians.com/"
+      "url": "https://hfpmd.com/",
+      "zip": "77054"
     },
     {
       "name": "Doctors Clinic Houston - Northwest Freeway",
       "address": "10961 Northwest Fwy",
       "phone": "+1 713-686-3700",
-      "url": "https://doctorsclinichouston.com/"
-    },
-    {
-      "name": "UT Physicians Family Medicine – Texas Medical Center",
-      "address": "6410 Fannin St # 170 · In The University Of Texas Health Science Center",
-      "phone": "+1 832-325-6500",
-      "url": "https://www.utphysicians.com/clinic/ut-family-medicine-tmc/"
-    },
-    {
-      "name": "Baylor Medicine Family Medicine",
-      "address": "3701 Kirby Dr Suite 100 · In 3701 Kirby",
-      "phone": "+1 713-798-7700",
-      "url": "https://www.bcm.edu/healthcare/specialties/family-medicine"
+      "url": "https://doctorsclinichouston.com/",
+      "zip": "77092"
     },
     {
       "name": "Uday V. Doctor, M.D.",
       "address": "7401 Main St",
       "phone": "+1 713-790-1500",
-      "url": "https://www.fondren.com/uday-v-doctor-md.html?utm_source=GMBSocialClimb&utm_medium=UdayV.Doctor,M.D."
+      "url": "https://www.fondren.com/uday-v-doctor-md.html?utm_source=GMBSocialClimb&utm_medium=UdayV.Doctor,M.D.",
+      "zip": "77030"
+    },
+    {
+      "name": "Baylor Medicine Family Medicine",
+      "address": "3701 Kirby Dr Suite 100 · In 3701 Kirby",
+      "phone": "+1 713-798-7700",
+      "url": "https://www.bcm.edu/healthcare/specialties/family-medicine",
+      "zip": "77098"
+    },
+    {
+      "name": "UT Physicians Family Medicine – Texas Medical Center",
+      "address": "6410 Fannin St # 170 · In The University Of Texas Health Science Center",
+      "phone": "+1 832-325-6500",
+      "url": "https://www.utphysicians.com/clinic/ut-family-medicine-tmc/",
+      "zip": "77030"
     },
     {
       "name": "Dr. Manazir Shamsi MD",
-      "url": "http://texasclinic.com/"
+      "phone": "+1 713-468-0536",
+      "url": "http://texasclinic.com/",
+      "zip": "77055"
     },
     {
       "name": "UT Physicians Multispecialty - The Heights",
       "address": "925 N Shepherd Dr · In Merchants Park Shopping Center",
       "phone": "+1 713-486-7200",
-      "url": "https://www.utphysicians.com/clinic/ut-physicians-at-the-heights/"
+      "url": "https://www.utphysicians.com/clinic/ut-physicians-at-the-heights/",
+      "zip": "77008"
+    },
+    {
+      "name": "Ut Physicians",
+      "url": "https://www.utphysicians.com/",
+      "zip": "77004"
     },
     {
       "name": "UT Physicians",
       "address": "6410 Fannin St · In the University Of Texas Professional Building",
       "phone": "+1 888-488-3627",
-      "url": "https://www.utphysicians.com/"
-    },
-    {
-      "name": "Ut Physicians",
-      "url": "https://www.utphysicians.com/"
+      "url": "https://www.utphysicians.com/",
+      "zip": "77030"
     },
     {
       "name": "Village Physicians",
       "address": "9090 Gaylord Dr suite 200",
       "phone": "+1 832-930-7877",
-      "url": "http://villagephysicians.com/"
+      "url": "http://villagephysicians.com/",
+      "zip": "77024"
     },
     {
       "name": "River Oaks Doctors Group",
-      "url": "http://www.riveroaksdoctorsgroup.com/"
-    },
-    {
-      "name": "Doctors Clinic Houston - Gulf Freeway",
-      "address": "6969 Gulf Fwy #370 · In Woodridge plaza",
-      "phone": "+1 713-643-0600",
-      "url": "http://www.doctorsclinichouston.com/"
-    },
-    {
-      "name": "Rosewood Family Physicians",
-      "address": "2405 S Gessner Rd # B",
-      "phone": "+1 713-266-7673",
-      "url": "http://www.rosewoodfamilypractice.com/"
-    },
-    {
-      "name": "Rolando R. Maldonado, MD",
-      "address": "548 Waugh Dr",
-      "phone": "+1 713-933-0501",
-      "url": "http://rolando-md.edan.io/"
+      "phone": "+1 832-504-9889",
+      "url": "http://www.riveroaksdoctorsgroup.com/",
+      "zip": "77019"
     },
     {
       "name": "Dr. Elizabeth U. Tran, MD",
       "address": "3701 Kirby Dr",
       "phone": "+1 713-798-7700",
-      "url": "https://www.bcm.edu/healthcare/care-centers/family-medicine"
+      "url": "https://www.bcm.edu/healthcare/care-centers/family-medicine",
+      "zip": "77098"
+    },
+    {
+      "name": "Memorial Hermann Medical Group Memorial City",
+      "address": "915 Gessner Rd #100 · In Medical Plaza 3",
+      "phone": "+1 713-242-2222",
+      "url": "https://www.memorialhermann.org/locations/mhmg-memorial-city?utm_campaign=reputation-management&utm_segment=gmb_listing-link&utm_source=google&utm_medium=organic-search",
+      "zip": "77024"
+    },
+    {
+      "name": "Doctors Clinic Houston - Gulf Freeway",
+      "address": "6969 Gulf Fwy #370 · In Woodridge plaza",
+      "phone": "+1 713-643-0600",
+      "url": "http://www.doctorsclinichouston.com/",
+      "zip": "77087"
+    },
+    {
+      "name": "Rolando R. Maldonado, MD",
+      "address": "548 Waugh Dr",
+      "phone": "+1 713-933-0501",
+      "url": "http://rolando-md.edan.io/",
+      "zip": "77019"
     }
   ]
 }

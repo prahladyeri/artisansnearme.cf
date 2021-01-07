@@ -4,118 +4,138 @@
       "name": "A plus R Architects",
       "address": "Tamil Nadu",
       "phone": "04224973776",
-      "url": "http://architectraaghav.com/"
+      "url": "http://architectraaghav.com/",
+      "zip": "641004"
     },
     {
       "name": "Arth Agam Architects",
       "address": "125, W Ramalingam Rd",
       "phone": "09994153531",
-      "url": "http://www.arthagam.com/"
+      "url": "http://www.arthagam.com/",
+      "zip": "641002"
     },
     {
       "name": "Cuboid Architecture",
       "address": "471, Ponnaiyan St",
       "phone": "04224378994",
-      "url": "http://cuboidglobal.com/"
+      "url": "http://cuboidglobal.com/",
+      "zip": "641012"
     },
     {
       "name": "WARP Architects",
       "address": "Tamil Nadu",
       "phone": "08940099099",
-      "url": "http://www.warparchitects.com/"
+      "url": "http://www.warparchitects.com/",
+      "zip": "641011"
     },
     {
       "name": "BuilDTecH Architects, Interior Designers & Engineers",
       "address": "Gandhipuram, Tamil Nadu",
       "phone": "09843333999",
-      "url": "https://www.buildtech4u.com/"
+      "url": "https://www.buildtech4u.com/",
+      "zip": "641012"
     },
     {
       "name": "icon design studio, Architects Coimbatore",
       "address": "87-A, Muniappakoilthottam Rd",
       "phone": "04224981617",
-      "url": "http://www.icondesignstudio.net/"
+      "url": "http://www.icondesignstudio.net/",
+      "zip": "641006"
     },
     {
       "name": "Sundar Sundaram Architects",
       "address": "Thirugnanasambandam Rd, Opp Appasamy college",
       "phone": "04222220645",
-      "url": "http://www.ssarch.in/"
+      "url": "http://www.ssarch.in/",
+      "zip": "641018"
     },
     {
-      "name": "THAW DESIGNERS- Interior Designers in Coimbatore | Interior decorators | House,office, restaurant Interior design | Best architecture firms in coimbatore",
+      "name": "THAW DESIGNERS",
       "address": "Obli Towers, DB Road 594, 3RD FLOOR, Cowley Brown Rd",
       "phone": "09384998646",
-      "url": "http://www.thawdesigners.com/"
+      "url": "http://www.thawdesigners.com/",
+      "zip": "641002"
     },
     {
       "name": "Sankar & Associates",
       "address": "27",
       "phone": "04222230890",
-      "url": "http://www.sankarassociates.in/"
+      "url": "http://www.sankarassociates.in/",
+      "zip": "641009"
     },
     {
       "name": "Luxen Architects Private Limited",
       "address": "No. 42C, Malaviya St",
       "phone": "04224200024",
-      "url": "http://www.luxenindia.com/"
+      "url": "http://www.luxenindia.com/",
+      "zip": "641009"
     },
     {
       "name": "Jeyakumar Associates",
       "address": "23, THIRD FLOOR, VISWA PARADISE, Kalidas Rd",
       "phone": "04222236467",
-      "url": "http://www.jkalandscape.com/"
+      "url": "http://www.jkalandscape.com/",
+      "zip": "641009"
     },
     {
       "name": "arth agam design studio",
       "address": "No. 125, Ramalingam Rd (West)",
       "phone": "09994153531",
-      "url": "http://www.arthagam.com/"
+      "url": "http://www.arthagam.com/",
+      "zip": "641002"
     },
     {
       "name": "PRIMUS ARCHITECTS",
       "address": "17B,Venkataramana street, R.S puram",
-      "phone": "09600897842"
+      "phone": "09600897842",
+      "zip": "641002"
     },
     {
       "name": "Karthigeeta & Associates",
       "address": "100, Jagam Appartments, Ground Floor, Jawahar Nagar, Bharathi Park No. 2 Saibaba Colony",
       "phone": "04222454082",
-      "url": "http://karthigeetaassociates.com/"
+      "url": "http://karthigeetaassociates.com/",
+      "zip": "641043"
     },
     {
       "name": "Fourth Dimension Architects & Interiors",
       "address": "Tamil Nadu",
       "phone": "09688888600",
-      "url": "http://www.fourthdimension.in/"
+      "url": "http://www.fourthdimension.in/",
+      "zip": "641004"
+    },
+    {
+      "name": "Yellow Architect",
+      "address": "52, Sarojini St",
+      "zip": "641009"
     },
     {
       "name": "ARCH FIRM",
       "address": "No. 167, Dr Radhakrishna St",
       "phone": "09894261236",
-      "url": "http://archfirm.in/"
-    },
-    {
-      "name": "Yellow Architect",
-      "address": "52, Sarojini St"
+      "url": "http://archfirm.in/",
+      "zip": "641012"
     },
     {
       "name": "Gedee Architects",
       "address": "Dwellart complex 468/1b Soap company Main Road",
       "phone": "09566999236",
-      "url": "http://gedeearchitects.com/"
+      "url": "http://gedeearchitects.com/",
+      "zip": "641006"
     },
     {
       "name": "The Grandeur Design",
       "address": "60/45, Mecrikar Road, R.S.Puram",
       "phone": "09952544586",
-      "url": "http://www.grandeurdesign.in/"
+      "url": "http://www.grandeurdesign.in/",
+      "zip": "641002"
     },
     {
       "name": "Beads Architects",
       "address": "#41,Mysore Association,Cowley Brown Road, RS Puram",
       "phone": "09944058640",
-      "url": "https://beads-architects.business.site/"
+      "url": "https://beads-architects.business.site/",
+      "zip": "641002"
     }
   ]
 }

@@ -4,19 +4,22 @@
       "name": "As You Wish Electric",
       "address": "",
       "phone": "+1 206-783-2525",
-      "url": "http://asyouwishelectric.com/"
+      "url": "http://asyouwishelectric.com/",
+      "zip": "98134"
     },
     {
       "name": "Kemly Electric Inc",
       "address": "",
       "phone": "+1 206-782-1670",
-      "url": "http://www.kemlyelectric.com/"
+      "url": "http://www.kemlyelectric.com/",
+      "zip": "98107"
     },
     {
       "name": "Mr. Electric of Greater Seattle",
       "address": "",
       "phone": "+1 206-319-5016",
-      "url": "https://mrelectric.com/greater-seattle/?utm_source=gmb&utm_campaign=local&utm_medium=organic"
+      "url": "https://mrelectric.com/greater-seattle/?utm_source=gmb&utm_campaign=local&utm_medium=organic",
+      "zip": "98134"
     },
     {
       "name": "Mirsky Electric",
@@ -32,7 +35,8 @@
       "name": "Exact Electric",
       "address": "",
       "phone": "+1 206-434-6915",
-      "url": "https://exactelectric.com/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB"
+      "url": "https://exactelectric.com/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB",
+      "zip": "98125"
     },
     {
       "name": "Seatown Electric Plumbing Heating and Air",
@@ -43,25 +47,34 @@
       "name": "Seattle Electricians Today",
       "address": "",
       "phone": "+1 206-937-8495",
-      "url": "https://www.seattleelectricianstoday.com/"
+      "url": "https://www.seattleelectricianstoday.com/",
+      "zip": "98116"
     },
     {
       "name": "Electrical Services",
       "address": "",
-      "phone": "+1 206-285-7800"
+      "phone": "+1 206-285-7800",
+      "zip": "98112"
     },
     {
       "name": "Electric Company of Seattle",
       "address": "",
       "phone": "+1 206-633-3896",
-      "url": "https://www.elcose.com/"
+      "url": "https://www.elcose.com/",
+      "zip": "98115"
     },
-    
     {
       "name": "Brennan Electric",
       "address": "",
       "phone": "+1 206-513-7452",
-      "url": "https://brennan-electric.com/?utm_source=GMBSocialClimb&utm_medium=BrennanElectric"
+      "url": "https://brennan-electric.com/?utm_source=GMBSocialClimb&utm_medium=BrennanElectric",
+      "zip": "98168"
+    },
+    {
+      "name": "Edison Electricians of Seattle",
+      "address": "",
+      "phone": "+1 206-350-1480",
+      "zip": "98199"
     },
     {
       "name": "Omega Electricians Seattle",
@@ -70,21 +83,16 @@
     },
     {
       "name": "Seatown Electrician ®",
-      "address": "+1 206-486-9867",
+      "phone": "+1 206-486-9867",
       "url": "https://seattleelectric.business.site/"
-    },
-    {
-      "name": "Edison Electricians of Seattle",
-      "address": "",
-      "phone": "+1 206-350-1480"
     },
     {
       "name": "Bowie Electric Service & Supplies Inc",
       "address": "",
       "phone": "+1 206-789-6500",
-      "url": "http://www.bowieservice.com/"
+      "url": "http://www.bowieservice.com/",
+      "zip": "98107"
     },
-    
     {
       "name": "Seattle Electrician Service, Inc",
       "url": "http://www.seattleelectricianservice.com/"
@@ -93,7 +101,8 @@
       "name": "OHM Electrical Contracting",
       "address": "",
       "phone": "+1 206-678-6744",
-      "url": "https://ohmelectricalcontracting.com/"
+      "url": "https://ohmelectricalcontracting.com/",
+      "zip": "98108"
     },
     {
       "name": "Seattle Best Electricians",

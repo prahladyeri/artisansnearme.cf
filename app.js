@@ -14,6 +14,7 @@ function showListings(ct, state, city, prof, suburb) {
 		url = "/data/"+ct+"/"+state+"/"+city+"/"+prof+".json";
 	}
 	$.getJSON(url, function(data){
+		window.data = data;
 		data.data.forEach(function(item, idx){
 			//console.log("item:", item, "idx:", idx);
 			html = "<tr>";
@@ -23,7 +24,13 @@ function showListings(ct, state, city, prof, suburb) {
 			var nametg = (item.url ? "<a target='_blank'  href='"+item.url+"'>"+item.name+"</a>" : item.name);
 			
 			var body = nametg + "<br>";
-			if (item.address) body += item.address + ",<br>";
+			if (item.address) {
+				body += item.address + ",<br>";
+			}
+			
+			if (suburb && (!item.address || !item.address.includes(suburb))) {
+				body += suburb + "<br>";
+			}
 			
 			body += state + " " + city + " "
 			if (item.zip) body += item.zip 
@@ -87,9 +94,13 @@ window.addEventListener("DOMContentLoaded", function(){
 		//@todo: make the footer block bigger as there will be many entries in this case
 	}
 	else { //all entries proper
-		var title = prof + " in " + city + ", " + state;
+		var title = prof + " in ";
+		if (suburb!=null) {
+			title += suburb + ", "
+		}
+		title += city + ", " + state;
 		document.title = title + " - " + document.title;
-		$("#lblTitle").text(title);
+		$("#lblTitle").text(prof + " in " + city + ", " + state);
 		if (suburb != null) {
 			//var suburbtg = "<small>("+suburb+" suburb)</small>";
 			$("#lblSuburb").text("("+suburb+" Suburb)");
