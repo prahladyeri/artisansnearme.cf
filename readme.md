@@ -1,1 +1,1 @@
-latest contents in gh-pages branch
+lorem-ipsum
