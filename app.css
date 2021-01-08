@@ -3,6 +3,10 @@ body{
 	font-size: 17px;
 }
 
+h1 {
+	font-size: 1.9rem;
+}
+
 .lbl-header {
 	font-family: "segoe ui";
 	font-size: 38px;

@@ -95,6 +95,8 @@ window.addEventListener("DOMContentLoaded", function(){
 	}
 	else { //all entries proper
 		var title = prof + " in ";
+		$(".disp-summary-page").remove();
+		$("#tblMain").removeClass("d-none");
 		if (suburb!=null) {
 			title += suburb + ", "
 		}
