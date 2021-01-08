@@ -20,3 +20,4 @@ https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Jamaica&prof=Lawye
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Midtown&prof=Dentists
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Glendale&prof=Lawyers
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Flushing&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Ozone Park&prof=Lawyers
