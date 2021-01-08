@@ -132,11 +132,12 @@ window.addEventListener("DOMContentLoaded", function(){
 	console.log('bread-crumbs added');
 	
 	//build footer
-	var url = "/sitemaps/"+ct+".txt";
+	var url = "/sitemaps/"+ct+".txt", linkcnt=0;
 	$.get(url, function(data){
 		data = readTextContent(data);
 		data.forEach(function(item, idx){
 			//console.log('item:', item, 'idx:', idx);
+			if (linkcnt>=16 && (ct&&state&&city&&prof)) return;
 			if (item=="") return;
 			turl = new URL(item);
 			var params = new URLSearchParams(turl.search);
@@ -148,6 +149,7 @@ window.addEventListener("DOMContentLoaded", function(){
 			ss += params.get('city');
 			var elem = "<a class='text-success link' href='" + item + "'>" + ss + "</a>" + "&nbsp;";
 			$("#footerBlock").append(elem);
+			linkcnt++;
 		});
 		$("#footerBlock").append("<br><br>");
 	});

@@ -2,118 +2,138 @@
   "data": [
     {
       "name": "PHYSIOTHERAPIST FOR HOME VISITS",
-      "address": "NEW NO 34 OLD NO 15 MURRAYS GATE ROAD ALWARPET CHENNAI 600018",
+      "address": "NEW NO 34 OLD NO 15 MURRAYS GATE ROAD ALWARPET CHENNAI",
       "phone": "08610390759",
-      "url": "http://physiotherapist-for-home-visits.business.site/"
+      "url": "http://physiotherapist-for-home-visits.business.site/",
+      "zip": "600018"
     },
     {
       "name": "Crescent physiotherapy clinic physiotherapy in chennai",
       "address": "CRESCENT PHYSIOTHERAPY CENTER, 5/84",
       "phone": "08667453434",
-      "url": "https://physiotherapyinchennai.business.site/"
+      "url": "https://physiotherapyinchennai.business.site/",
+      "zip": "600078"
     },
     {
       "name": "Physio 1st - physiotherapy center in west mambalam & Vadapalani",
       "address": "Flat No.11/2, Raja Apartment 86th street, Near Pallava Hospital",
       "phone": "09789800894",
-      "url": "http://www.physio1st.in/"
-    },
-    {
-      "name": "GVS Physiotherapy Clinics choolaimedu",
-      "address": "155B, MRJ Flats, Choolaimedu High Road, Zakaria Colony, Near Kodambakkam Over Bridge, Choolaimedu",
-      "phone": "09840234290",
-      "url": "https://www.gvsphysio.com/about.html"
+      "url": "http://www.physio1st.in/",
+      "zip": "600083"
     },
     {
       "name": "Physiotherapy Clinic",
       "address": "93, Kumaran Nagar, Old Mahabalipuram Rd",
       "phone": "08646086460",
-      "url": "https://www.practo.com/chennai/doctor/dr-sathyadharan-orthopedist#recommended"
+      "url": "https://www.practo.com/chennai/doctor/dr-sathyadharan-orthopedist#recommended",
+      "zip": "600119"
+    },
+    {
+      "name": "GVS Physiotherapy Clinics choolaimedu",
+      "address": "155B, MRJ Flats, Choolaimedu High Road, Zakaria Colony, Near Kodambakkam Over Bridge, Choolaimedu",
+      "phone": "09840234290",
+      "url": "https://www.gvsphysio.com/about.html",
+      "zip": "600094"
+    },
+    {
+      "name": "Koti Physiotherapy Clinic",
+      "address": "46, Parsn Apartment, G N Chetty Road, T Nagar, T Nagar",
+      "phone": "09444855974",
+      "zip": "600017"
     },
     {
       "name": "JK Physio & Rehab Clinic",
       "address": "233, 3rd floor, Anna Nagar Metro Arcade, 2nd Ave",
       "phone": "04442662350",
-      "url": "http://www.jkphysioandrehabclinics.com/"
-    },
-    {
-      "name": "Koti Physiotherapy Clinic",
-      "address": "46, Parsn Apartment, G N Chetty Road, T Nagar, T Nagar",
-      "phone": "09444855974"
+      "url": "http://www.jkphysioandrehabclinics.com/",
+      "zip": "600040"
     },
     {
       "name": "ReLiva Physiotherapy & Rehab",
       "address": "Apollo Clinic, Bus Stand 7 46, Taramani Road, 4th Street, near Vijaynagar",
       "phone": "09920991584",
-      "url": "https://reliva.in/?utm_source=gmb"
+      "url": "https://reliva.in/?utm_source=gmb",
+      "zip": "600042"
+    },
+    {
+      "name": "Sugam Physiotherapy Clinic",
+      "address": "Dr.k.Poongodi BPT., MIAP, #,, 3, Main Road, Ramakrishna Nagar Porur",
+      "phone": "09787110220",
+      "url": "https://sugamphysiotherapy.business.site/",
+      "zip": "600116"
     },
     {
       "name": "Ohm Physiotherapy Clinic (Best Physiotherapist in Chennai)",
       "address": "38 Anandan Nagar, opposite to Police Station",
       "phone": "07010300360",
-      "url": "https://ohmphysio.business.site/?utm_source=gmb&utm_medium=referral"
+      "url": "https://ohmphysio.business.site/?utm_source=gmb&utm_medium=referral",
+      "zip": "600089"
     },
     {
       "name": "Vaitheeswaran Physiotherapy Center",
       "address": "12/7, VV Koil St",
-      "phone": "09444681606"
+      "phone": "09444681606",
+      "zip": "600015"
     },
     {
       "name": "Bee Health Studio-Physiotherapy Clinic",
       "address": "Dr.MCN Multi Speciality Centre, BEE PHYSIO CLINIC, 1-A, SAI GURU KRIPA, New No:47 Old No:11, E Mada St",
       "phone": "09944027277",
-      "url": "http://www.beephysioclinic.in/"
+      "url": "http://www.beephysioclinic.in/",
+      "zip": "600041"
     },
     {
       "name": "HEMAS PHYSIO AND REHAB CENTRE",
       "address": "50/1, Ramasamy Avenue, Ellaiamman Koil St",
       "phone": "09940658790",
-      "url": "https://hemasphysio.com/"
-    },
-    {
-      "name": "Sri Krishna Physiotherapy Centre",
-      "address": "New no. 18, Old No. 8, Ground Floor, 29th Cross Street, Indira Nagar Diagonally, opposite Corporation Primary School",
-      "phone": "09840170844",
-      "url": "http://www.srikrishnaphysio.com/"
-    },
-    {
-      "name": "Physiotherapy clinic",
-      "address": "167 Arunachalam avenue, Arcot Rd, opp Indian oil bunk"
+      "url": "https://hemasphysio.com/",
+      "zip": "600090"
     },
     {
       "name": "ReLiva Physiotherapy & Rehab",
       "address": "Apollo Clinic, 4, Sivaprakasam St",
       "phone": "09920991584",
-      "url": "https://reliva.in/?utm_source=gmb"
+      "url": "https://reliva.in/?utm_source=gmb",
+      "zip": "600017"
     },
     {
       "name": "Home Care Physiotherapy Chennai",
       "address": "A8, AP abhinava flats, Kavimani salai,",
       "phone": "09884584525",
-      "url": "https://uniquecarephysiotherapy.hpage.com/"
+      "url": "https://uniquecarephysiotherapy.hpage.com/",
+      "zip": "600037"
     },
     {
       "name": "Bernice Physiotherapy Center",
       "address": "G - 107, 9th St",
-      "phone": "08122991217"
+      "phone": "08122991217",
+      "zip": "600102"
     },
     {
-      "name": "Vijaya Physiotherapy Clinic (Since 1989)",
-      "address": "Old No. 53, New, No. 125, Medavakkam Tank Rd",
-      "phone": "09445331014",
-      "url": "http://www.vijayaphysiotherapy.com/"
+      "name": "Life Healthcare Physiotherapy Clinic",
+      "address": "No.49 , Sattanan, Govindappa Naicken St",
+      "url": "http://www.lifehealthcare.co.in/",
+      "zip": "600112"
     },
     {
-      "name": "Unique Care Physiotherapy",
-      "address": "1/256, Kalamegam Salai, near Karumari Amman Temple",
-      "phone": "09884584525",
-      "url": "http://uniquecarephysiotherapy.npage.de/"
+      "name": "ActiLife Physio Clinic Pallikaranai",
+      "address": "No 13, Selvam Nagar Main Road Near St. Antony's School",
+      "phone": "08807807808",
+      "url": "http://www.actilifephysioclinic.com/",
+      "zip": "600100"
+    },
+    {
+      "name": "DSK Bone and Joint Physiotherapy Clinic Medavakkam",
+      "address": "4/660, Shanthi Complex Velachery Main Road, near Dindugal Thalapakati, next to Grand sweets",
+      "phone": "09840993625",
+      "zip": "600073"
     },
     {
       "name": "Bhavisha Physiotherapy Clinic",
       "address": "Number 5, 7th ave, Ambal Nagar Main Road, Metro Nagar",
       "phone": "09962782374",
-      "url": "https://bhavishaphysiotherapyclinic.business.site/?utm_source=gmb&utm_medium=referral"
+      "url": "https://bhavishaphysiotherapyclinic.business.site/?utm_source=gmb&utm_medium=referral",
+      "zip": "600116"
     }
   ]
 }

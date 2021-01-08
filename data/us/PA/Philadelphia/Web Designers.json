@@ -4,13 +4,15 @@
       "name": "The 215 Guys",
       "address": "151 N 3rd St 4th floor",
       "phone": "+1 215-315-5529",
-      "url": "https://www.the215guys.com/"
+      "url": "https://www.the215guys.com/",
+      "zip": "19106"
     },
     {
       "name": "Philadelphia Web Design Company",
       "address": "1735 Market St Suite 259",
       "phone": "+1 610-259-4123",
-      "url": "http://philadelphia-web-design.com/"
+      "url": "http://philadelphia-web-design.com/",
+      "zip": "19103"
     },
     {
       "name": "PA Web Design",
@@ -20,40 +22,43 @@
       "name": "YIKES, Inc.",
       "address": "204 E Girard Ave",
       "phone": "+1 215-238-8801",
-      "url": "https://www.yikesinc.com/"
-    },
-    {
-      "name": "Vitris | Web Design & Marketing",
-      "address": "1510 Cecil B. Moore Ave Suite 301 · In Temple University",
-      "phone": "+1 215-595-8457",
-      "url": "https://tryvitris.com/?utm_source=GMB&utm_medium=Website%20Button"
+      "url": "https://www.yikesinc.com/",
+      "zip": "19125"
     },
     {
       "name": "The Website Design Agency - Philadelphia",
-      "url": "https://thewebsitedesignagency.com/philadelphia-pa/"
+      "phone": "+1 855-603-0966",
+      "url": "https://thewebsitedesignagency.com/philadelphia-pa/",
+      "zip": "19130"
     },
     {
       "name": "John Walsh - Philadelphia Web Design",
       "address": "1410 W Porter St",
       "phone": "+1 215-237-7259",
-      "url": "http://johnwalsh.design/"
+      "url": "http://johnwalsh.design/",
+      "zip": "19145"
     },
     {
       "name": "Ryan Hinkel Web Design",
-      "url": "http://ryanhinkel.com/"
+      "url": "http://ryanhinkel.com/",
+      "zip": "19107"
+    },
+    {
+      "name": "Wyndetryst Print & Web Design",
+      "phone": "+1 267-564-5221",
+      "url": "http://www.wyndetryst.com/",
+      "zip": "19129"
     },
     {
       "name": "MM Professional Web Design",
       "address": "2855 Winton St apt a",
-      "phone": "+1 267-742-4707"
-    },
-    {
-      "name": "Wyndetryst Print & Web Design",
-      "url": "http://www.wyndetryst.com/"
+      "phone": "+1 267-742-4707",
+      "zip": "19145"
     },
     {
       "name": "Sci-Fi Web Design",
-      "url": "https://sci-fi-web-design.ueniweb.com/?utm_campaign=gmb"
+      "url": "https://sci-fi-web-design.ueniweb.com/?utm_campaign=gmb",
+      "zip": "19143"
     },
     {
       "name": "GAGA Web Design",
@@ -61,35 +66,42 @@
     },
     {
       "name": "Tyler Web Design",
-      "url": "http://tylerwebdesign.info/hire-us/"
+      "url": "http://tylerwebdesign.info/hire-us/",
+      "zip": "19106"
     },
     {
       "name": "Roja Interactive",
       "address": "1608 Walnut St 12th fl",
       "phone": "+1 877-854-3352",
-      "url": "http://www.rojaweb.com/"
+      "url": "http://www.rojaweb.com/",
+      "zip": "19103"
     },
     {
       "name": "Blinebury Design",
       "address": "2027 E Sergeant St",
       "phone": "+1 215-919-6056",
-      "url": "https://blineburydesign.com/"
+      "url": "https://blineburydesign.com/",
+      "zip": "19125"
     },
     {
       "name": "Fab Web Philly",
       "address": "20 N 3rd St #401",
       "phone": "+1 215-987-6947",
-      "url": "http://www.fabwebphilly.com/"
+      "url": "http://www.fabwebphilly.com/",
+      "zip": "19106"
     },
     {
       "name": "Philadelphia Creative",
       "address": "One Penn Center, 1617 John F Kennedy Blvd #1710a · In Suburban Station",
       "phone": "+1 215-987-1677",
-      "url": "https://www.philadelphiacreative.com/"
+      "url": "https://www.philadelphiacreative.com/",
+      "zip": "19103"
     },
     {
       "name": "Griflan Design",
-      "url": "http://www.griflan.com/"
+      "phone": "+1 856-816-6159",
+      "url": "http://www.griflan.com/",
+      "zip": "19104"
     },
     {
       "name": "eNet Web Services Design & SEO",
@@ -100,7 +112,15 @@
       "name": "Total Web Company",
       "address": "1013 Johnston St",
       "phone": "+1 215-284-7918",
-      "url": "https://www.totalwebcompany.com/"
+      "url": "https://www.totalwebcompany.com/",
+      "zip": "19148"
+    },
+    {
+      "name": "KFL Webdesign",
+      "address": "325 Chestnut St Unit 800 · In Constitution Place",
+      "phone": "+1 267-800-0374",
+      "url": "https://kflwebdesign.com/",
+      "zip": "19106"
     }
   ]
 }

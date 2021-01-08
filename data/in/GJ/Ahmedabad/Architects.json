@@ -4,13 +4,29 @@
       "name": "Top Architects In Ahmedabad - 99 STUDIO -",
       "address": "11th floor Landmark Above State Bank of India Nr. Titanium City Center, 100 Feet Anand Nagar Rd",
       "phone": "07940028361",
-      "url": "https://99-studio.org/"
+      "url": "https://99-studio.org/",
+      "zip": "380015"
     },
     {
       "name": "Malvi Gajjar Interior Designer & Architect - Home & Office Interior | Corporate & Turnkey projects | Architect in Ahmedabad",
       "address": "701, Zion Prime Thaltej - Shilaj Road, Main Road, near Copper Stone",
       "phone": "09909977200",
-      "url": "https://www.malvigajjar.com/"
+      "url": "https://www.malvigajjar.com/",
+      "zip": "380059"
+    },
+    {
+      "name": "Vipul Patel Architects",
+      "address": "J,702 Indraprastha Towers Nr. Himalaya Mall, Thaltej Memnagar",
+      "phone": "07927434868",
+      "url": "http://www.vpaarchitects.in/",
+      "zip": "560052"
+    },
+    {
+      "name": "Arya Architects",
+      "address": "1 Bhoomi Apartment-15 Motinagar Society, Mahalaxmi, Paldi",
+      "phone": "07926612196",
+      "url": "http://www.aryaarchitects.in/",
+      "zip": "380007"
     },
     {
       "name": "Earthitecture - Architecture firm (Architects) in Ahmedabad",
@@ -18,106 +34,109 @@
       "url": "http://www.earthitecture.in/"
     },
     {
-      "name": "Vipul Patel Architects",
-      "address": "J,702 Indraprastha Towers Nr. Himalaya Mall, Thaltej Memnagar",
-      "phone": "07927434868",
-      "url": "http://www.vpaarchitects.in/"
-    },
-    {
-      "name": "Arya Architects",
-      "address": "1 Bhoomi Apartment-15 Motinagar Society, Mahalaxmi, Paldi",
-      "phone": "07926612196",
-      "url": "http://www.aryaarchitects.in/"
-    },
-    {
       "name": "Aarchion | Interior Designers & Architecture in Ahmedabad",
       "address": "No. 110, Mahakant Building, Ashram Road, opposite VS Hospital Neonatal Intensive Care Unit",
       "phone": "07940308020",
-      "url": "http://www.aarchion.com/"
-    },
-    {
-      "name": "Maulik Vyas Architects",
-      "address": "Kataria Arcade, Sidhivinayak Tower Nr · In C-Phi Consult Pvt. Ltd.",
-      "phone": "09909151414",
-      "url": "http://www.mva.co.in/"
+      "url": "http://www.aarchion.com/",
+      "zip": "380006"
     },
     {
       "name": "Architects at Work",
       "address": "601, Aarohi verve Nr Ambli-Bopal, Cross Rd",
       "phone": "07574070754",
-      "url": "http://www.architectsatwork.in/"
+      "url": "http://www.architectsatwork.in/",
+      "zip": "380058"
     },
     {
       "name": "Modo Designs",
       "address": "Titanium Square, Near Thaltej Chowkdi, Sarkhej - Gandhinagar Hwy · In Q concept Inc",
       "phone": "07940308848",
-      "url": "http://www.mododesigns.co.in/"
+      "url": "http://www.mododesigns.co.in/",
+      "zip": "380015"
+    },
+    {
+      "name": "Maulik Vyas Architects",
+      "address": "Kataria Arcade, Sidhivinayak Tower Nr · In C-Phi Consult Pvt. Ltd.",
+      "phone": "09909151414",
+      "url": "http://www.mva.co.in/",
+      "zip": "380051"
     },
     {
       "name": "Ads Architect Private Limited",
       "address": "Gujarat",
       "phone": "07926404128",
-      "url": "https://www.adsapl.in/"
+      "url": "https://www.adsapl.in/",
+      "zip": "380009"
     },
     {
       "name": "Chirag Dixit Architect in Ahmedabad",
       "address": "C-308, Sidhhi Vinayak Business Tower Near Kataria Arcade, B/H Corporate Road, Sarkhej - Gandhinagar Hwy · In C-Phi Consult Pvt. Ltd.",
       "phone": "08128682526",
-      "url": "http://www.iarcdesign.in/"
+      "url": "http://www.iarcdesign.in/",
+      "zip": "380051"
     },
     {
       "name": "HGCG Architects",
       "address": "A4-201, Iscon Flower, Bopal Ghuma Road, Near Lal Ghebi Ashram",
       "phone": "08758514058",
-      "url": "http://www.hgcgarchitects.com/"
+      "url": "http://www.hgcgarchitects.com/",
+      "zip": "380058"
     },
     {
       "name": "Hardik Soni Architect",
       "address": "Ashirwad Complex, 402, Mithakhali Six Rd, opposite S P Hall",
       "phone": "09824043992",
-      "url": "https://hardiksoni.houzz.in/"
+      "url": "https://hardiksoni.houzz.in/",
+      "zip": "380009"
     },
     {
       "name": "Aakruti Best Interior Designer | Top Architect in Ahmedabad, Navrangpura, Satellite",
       "address": "A-4, G-F, Yashpal Apartment, Union Bank Lane,, Vijay Cross Road, across Hero Honda Showroom",
       "phone": "07926401389",
-      "url": "http://www.aakrutiinterior.com/"
+      "url": "http://www.aakrutiinterior.com/",
+      "zip": "380009"
     },
     {
       "name": "Atlantis Architect Private Limited",
       "address": "Fourth Floor, Akshar Arcade, Opp Memnagar Fire Station, 120 Feet Ring Road, Sarvottamnagar Society, Navrangpura",
       "phone": "07926444527",
-      "url": "http://atlantisarchitect.com/"
+      "url": "http://atlantisarchitect.com/",
+      "zip": "380009"
     },
     {
       "name": "Residential Projects/Bungalow Architects Designer Planner",
       "address": "No. 110, Mahakant Building, opp VS Hospital, Ashram Road, Ashram Road",
       "phone": "07940308020",
-      "url": "http://www.aarchion.com/"
-    },
-    {
-      "name": "Torarch Architects - Best Interior Designer, Top Architects Architecture Design",
-      "address": "304,Supath Apartment, Nr, Vijay Cross Rd",
-      "phone": "07926464361",
-      "url": "http://www.torarch.com/"
+      "url": "http://www.aarchion.com/",
+      "zip": "380006"
     },
     {
       "name": "Ujjval Fadia Architects & Interior Designer",
       "address": "1, Kushan apartment, Opp suprim tower, Nr. excise chowkey, Amabawadi, Gujart.",
       "phone": "09327554959",
-      "url": "http://www.ujjvalfadia.com/"
+      "url": "http://www.ujjvalfadia.com/",
+      "zip": "380015"
     },
     {
-      "name": "Ar. Prashant Parmar | Architects & Interior Designer in Ahmedabad | Vadodara | Surat | Rajkot",
-      "address": "Shivam Complex, 213, Science City Rd, opp. Hetarth Party Plot",
-      "phone": "09825866356",
-      "url": "http://www.prashantparmar.com/"
+      "name": "Torarch Architects - Best Interior Designer, Top Architects Architecture Design",
+      "address": "304,Supath Apartment, Nr, Vijay Cross Rd",
+      "phone": "07926464361",
+      "url": "http://www.torarch.com/",
+      "zip": "380009"
+    },
+    {
+      "name": "ED architects",
+      "address": "2A2, ARJUN TOWER, SHIVARANJANI CROSS ROADS, SATELLITE",
+      "phone": "07940393200",
+      "url": "http://www.establishdesigns.in/",
+      "zip": "380015"
     },
     {
       "name": "KUNAL SHAH ARCHITECTS",
       "address": "206, Sigma Icon-II, 132 ft. Ring Road, Nr. Shyamal Cross Roads",
       "phone": "07926753998",
-      "url": "http://kunalshaharchitects.com/"
+      "url": "http://kunalshaharchitects.com/",
+      "zip": "380015"
     }
   ]
 }
