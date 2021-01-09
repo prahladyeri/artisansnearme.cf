@@ -153,6 +153,6 @@ window.addEventListener("DOMContentLoaded", function(){
 			$("#footerBlock").append(elem);
 			linkcnt++;
 		});
-		$("#footerBlock").append("<br><br>");
+		$("#footerBlock").append("<br>");
 	});
 });
