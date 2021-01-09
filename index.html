@@ -19,7 +19,17 @@
 	<div class='row'>
 		<div id="mainContainer" class='col-md-10 ml-auto mr-auto'>
 			<div style='padding-top:2px; padding-bottom:2px;'   class='row bg-warning'>
-			<h1 class='text-dark text-center col-md-10'>
+			<form class='col-md-3' method="get" action="http://www.google.com/search">
+				<div class="input-group">
+				<input name="q" class="form-control search-input" placeholder='Press / to Focus'>
+				  <div class="input-group-append">
+					<button id="btnSearch" class="btn btn-success" type="submit">Go</button>
+					</div>
+				</div>
+			<input class="d-none" type="checkbox"  name="sitesearch" value="artisansnearme.cf" checked />
+				
+			</form>
+			<h1 class='text-dark text-center col-md-7'>
 			<!-- <span class='fa fa-graduation-cap'></span> -->
 			<span class='fas fa-user-graduate'></span>
 			<a class='text-dark' href="/">Artisans Near Me</a></h1>

@@ -66,6 +66,27 @@ window.addEventListener("DOMContentLoaded", function(){
       }],
 	}
 	
+	$("body").on("keydown", function(e){
+		 //var inputValue = $(this).val(); 
+		 console.log("keydown fired!!!", e.keyCode);
+		  if(e.keyCode == 191) {
+			  $(".search-input").focus();
+			  return false;
+			//alert(inputValue);
+		  }
+	});
+	
+	$(".search-input").on("keyup", function(e){
+		if(e.key !== "Enter") return; // Use `.key` instead.
+			//$("#linkadd").click(); // Things you want to do.
+			//alert('Under construction');
+			e.preventDefault(); // No need to `return false;`.		
+	});
+	
+	$("#btnSearch").click(function(e){
+		console.log("btnSearch.click");
+	});
+	
 	if (ct == null) { //list all countries
 		$.get(SITEMAP_INDEX_URL, function(xmldata){
 			//window.xmldata = data;
