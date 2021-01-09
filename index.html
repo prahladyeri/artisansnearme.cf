@@ -21,7 +21,7 @@
 			<div style='padding-top:2px; padding-bottom:2px;'   class='row bg-warning'>
 			<form class='col-md-3' method="get" action="http://www.google.com/search">
 				<div class="input-group">
-				<input name="q" class="form-control search-input" placeholder='Press / to Search'>
+				<input name="q" class="form-control search-input" placeholder='Press / to Search' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Press / to Search'">
 				  <div class="input-group-append">
 					<button id="btnSearch" class="btn btn-success" type="submit">Go</button>
 					</div>
