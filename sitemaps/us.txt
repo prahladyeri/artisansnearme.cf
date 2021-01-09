@@ -16,8 +16,15 @@ https://artisansnearme.cf?ct=us&state=WA&city=Tacoma&prof=Electricians
 https://artisansnearme.cf?ct=us&state=WA&city=Tacoma&prof=Dentists
 https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Kent&prof=Doctors
 https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Kent&prof=Dentists
+https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Bellevue&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Bellevue&prof=Dentists
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Jamaica&prof=Lawyers
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Midtown&prof=Dentists
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Glendale&prof=Lawyers
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Flushing&prof=Lawyers
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Ozone Park&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Whitestone&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Floral Park&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Forest Hills&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=New Hyde Park&prof=Lawyers
+https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Long Island City&prof=Lawyers
