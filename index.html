@@ -15,67 +15,72 @@
 	<link rel="icon" href="/favicon.svg">
 </head>
 <body>
-<div class='container'>
-	<div class='row'>
-		<div id="mainContainer" class='col-md-10 ml-auto mr-auto'>
-			<div style='padding-top:2px; padding-bottom:2px;'   class='row bg-warning'>
-			<form class='col-md-3' method="get" action="http://www.google.com/search">
-				<div class="input-group">
-				<input name="q" class="form-control search-input" placeholder='Press / to Search' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Press / to Search'">
-				  <div class="input-group-append">
-					<button id="btnSearch" class="btn btn-success" type="submit">Go</button>
+<div id="mainWrapper">
+	<div class='container'>
+		<div class='row'>
+			<div id="mainContainer" class='col-md-10 ml-auto mr-auto'>
+				<div style='padding-top:2px; padding-bottom:2px;'   class='row bg-warning'>
+				<form class='col-md-3' method="get" action="http://www.google.com/search">
+					<div class="input-group">
+					<input name="q" class="form-control search-input" placeholder='Press / to Search' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Press / to Search'">
+					  <div class="input-group-append">
+						<button id="btnSearch" class="btn btn-success" type="submit">Go</button>
+						</div>
+					</div>
+				<input class="d-none" type="checkbox"  name="sitesearch" value="artisansnearme.cf" checked />
+					
+				</form>
+				<h1 class='text-dark text-center col-md-7'>
+				<!-- <span class='fa fa-graduation-cap'></span> -->
+				<span class='fas fa-user-graduate'></span>
+				<a class='text-dark' href="/">Artisans Near Me</a></h1>
+				<h2 style="padding-top:5px;font-family: segoe ui;" class="col-md-2"><span class="far fa-envelope-open">&nbsp;</span><a class="ml-auto text-dark" href="mailto:artisansnearme2020@protonmail.com">Email Us</a></h2>
+				</div>
+				
+				<p class='disp-summary-page text-muted font-italic'>Find all kinds of artisans and craftsmen in your vicinity, be it Accountants, Carpenters or Physicians. Click on a Country/City to proceed.</p>
+				<div class='row'>
+				<div id="articleBlock" class='col-md-8 ml-auto mr-auto'>
+					<h2 id="lblTitle" class='lbl-header text-center'></h2>
+					<small id="lblSuburb" class='text-center font-italic font-weight-bold'></small>
+					<table id="tblMain" class="d-none table table-striped table-bordered table-md">
+						<tr>
+							<th>SR. No.</th>
+							<th>Item</th>
+						</tr>
+					</table>
+				</div>
+				<div id="sideBlock" class='col-md-4 ml-auto mr-auto'>
+					
+				</div>
+				</div>
+				<div class='row'>
+					<div id='footerBlock' class='col-md-12 footer'>
 					</div>
 				</div>
-			<input class="d-none" type="checkbox"  name="sitesearch" value="artisansnearme.cf" checked />
 				
-			</form>
-			<h1 class='text-dark text-center col-md-7'>
-			<!-- <span class='fa fa-graduation-cap'></span> -->
-			<span class='fas fa-user-graduate'></span>
-			<a class='text-dark' href="/">Artisans Near Me</a></h1>
-			<h2 style="padding-top:5px;font-family: segoe ui;" class="col-md-2"><span class="far fa-envelope-open">&nbsp;</span><a class="ml-auto text-dark" href="mailto:artisansnearme2020@protonmail.com">Email Us</a></h2>
-			</div>
-			
-			<p class='disp-summary-page text-muted font-italic'>Find all kinds of artisans and craftsmen in your vicinity, be it Accountants, Carpenters or Physicians. Click on a Country/City to proceed.</p>
-			<div class='row'>
-			<div id="articleBlock" class='col-md-8 ml-auto mr-auto'>
-				<h2 id="lblTitle" class='lbl-header text-center'></h2>
-				<small id="lblSuburb" class='text-center font-italic font-weight-bold'></small>
-				<table id="tblMain" class="d-none table table-striped table-bordered table-md">
-					<tr>
-						<th>SR. No.</th>
-						<th>Item</th>
-					</tr>
-				</table>
-			</div>
-			<div id="sideBlock" class='col-md-4 ml-auto mr-auto'>
-				
-			</div>
-			</div>
-			<div class='row'>
-				<div id='footerBlock' class='col-md-12 footer'>
-				</div>
-				<div class='col-md-12 text-center text-muted '>
-				<hr>
-				<small class='text-center'>
-				artisansnearme.cf<br/>
-				Copyright &copy; 2021<br/>
-				<a href="/">Home</a>&nbsp;|&nbsp;<a href="mailto:artisansnearme2020@protonmail.com?subject=Remove Personal Info">Remove Personal Info</a>
-				&nbsp;|&nbsp;
-				<a href="mailto:artisansnearme2020@protonmail.com">Contact Us</a>
-				<br>
-				<a href="javascript:" onclick="alert('Under Construction');">Terms of use</a>
-				&nbsp;|&nbsp;
-				<a href="javascript:" onclick="alert('Under Construction');">Site Map</a>
-				&nbsp;|&nbsp;
-				<a href="javascript:" onclick="alert('Under Construction');">Privacy Statement</a>
-				</small>
-				</div>
 			</div>
 		</div>
 	</div>
-</div>
 
+	<div id='realFooter' class=''>
+		<div class='text-center text-muted '>
+		<hr>
+		<small class='text-center'>
+		artisansnearme.cf<br/>
+		Copyright &copy; 2021<br/>
+		<a href="/">Home</a>&nbsp;|&nbsp;<a href="mailto:artisansnearme2020@protonmail.com?subject=Remove Personal Info">Remove Personal Info</a>
+		&nbsp;|&nbsp;
+		<a href="mailto:artisansnearme2020@protonmail.com">Contact Us</a>
+		<br>
+		<a href="javascript:" onclick="alert('Under Construction');">Terms of use</a>
+		&nbsp;|&nbsp;
+		<a href="javascript:" onclick="alert('Under Construction');">Site Map</a>
+		&nbsp;|&nbsp;
+		<a href="javascript:" onclick="alert('Under Construction');">Privacy Statement</a>
+		</small>
+		</div>
+	</div>
+</div>
 
 <!-- ... -->
 <script src="/lib/js/jquery-1.11.1.min.js"></script>
