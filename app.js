@@ -112,6 +112,9 @@ window.addEventListener("DOMContentLoaded", function(){
 	}
 	else if (state==null || city==null || prof==null) {
 		//list all details for this country (see below the if block)
+		metaDescn = document.head.querySelector('meta[name="description"]').content;
+		metaDescn = ct + " - " + metaDescn
+		document.head.querySelector('meta[name="description"]').content = metaDescn;
 		//@todo: make the footer block bigger as there will be many entries in this case
 	}
 	else { //all entries proper
@@ -129,6 +132,11 @@ window.addEventListener("DOMContentLoaded", function(){
 			$("#lblSuburb").text("("+suburb+" Suburb)");
 		}
 		showListings(ct, state, city, prof, suburb);
+		
+		//update meta-description
+		metaDescn = document.head.querySelector('meta[name="description"]').content;
+		metaDescn = title + " - " + metaDescn;
+		document.head.querySelector('meta[name="description"]').content = metaDescn;
 		
 		//add more crumbs to ldData
 		var obj = null;
