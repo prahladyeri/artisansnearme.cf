@@ -1,0 +1,135 @@
+{
+  "data": [
+    {
+      "name": "AIA Chicago",
+      "address": "35 E Wacker Dr",
+      "phone": "+1 312-670-7770",
+      "url": "http://www.aiachicago.org/",
+      "zip": "60601"
+    },
+    {
+      "name": "Wheeler Kearns Architects",
+      "address": "343 S Dearborn St Ste 200 · In the Fisher Building",
+      "phone": "+1 312-939-7787",
+      "url": "http://wkarch.com/",
+      "zip": "60604"
+    },
+    {
+      "name": "Chicago Commercial Architects",
+      "address": "739 W Belmont Ave",
+      "phone": "+1 773-365-9128",
+      "url": "https://chicago-commercial-architects.business.site/",
+      "zip": "60657"
+    },
+    {
+      "name": "Dirk Denison Architects",
+      "address": "1123 W Washington Blvd STE 2",
+      "phone": "+1 312-455-1388",
+      "url": "http://www.dirkdenisonarchitects.com/",
+      "zip": "60607"
+    },
+    {
+      "name": "Nicholas Design Collaborative",
+      "phone": "+1 312-243-7799",
+      "url": "http://www.nicholasdc.com/",
+      "zip": "60622"
+    },
+    {
+      "name": "Senga Architects",
+      "address": "166 W Washington St #600",
+      "phone": "+1 773-656-8946",
+      "url": "http://sengaarch.com/",
+      "zip": "60602"
+    },
+    {
+      "name": "D & K Architects",
+      "url": "https://www.dk-arch.com/",
+      "zip": "60654"
+    },
+    {
+      "name": "PMPC Architects",
+      "address": "965 W Chicago Ave",
+      "phone": "+1 312-207-0501",
+      "url": "http://www.pmpcarch.com/",
+      "zip": "60642"
+    },
+    {
+      "name": "Chicago Architect",
+      "address": "151 E Wacker Dr · Near the Chicago Riverwalk",
+      "phone": "+1 866-794-8919",
+      "url": "https://www.aiachicago.org/chicago-architect/",
+      "zip": "60601"
+    },
+    {
+      "name": "SPACE ARCHITECTS + PLANNERS",
+      "address": "2149 N Talman Ave",
+      "phone": "+1 312-829-6666",
+      "url": "http://www.spacearchplan.com/",
+      "zip": "60647"
+    },
+    {
+      "name": "IA Interior Architects",
+      "phone": "+1 312-488-5200",
+      "url": "https://www.interiorarchitects.com/find-ia/chicago",
+      "zip": "60603"
+    },
+    {
+      "name": "Foster Dale Architects",
+      "url": "http://www.fosterdalearchitects.com/",
+      "zip": "60613"
+    },
+    {
+      "name": "Vladimir Radutny Architects Inc.",
+      "phone": "+1 312-329-1400",
+      "url": "http://www.radutny.com/",
+      "zip": "60654"
+    },
+    {
+      "name": "Northworks Architects",
+      "address": "1512 N Throop St",
+      "phone": "+1 312-440-9850",
+      "url": "http://www.nwks.com/",
+      "zip": "60642"
+    },
+    {
+      "name": "Brininstool + Lynch",
+      "address": "1144 W Washington Blvd",
+      "phone": "+1 312-640-0505",
+      "url": "http://brininstool-lynch.com/",
+      "zip": "60607"
+    },
+    {
+      "name": "CBD | ARCHITECTS (Chicago Building Design, P.C.)",
+      "phone": "+1 312-492-9007",
+      "url": "http://www.cbdarchitects.com/",
+      "zip": "60654"
+    },
+    {
+      "name": "Booth Hansen",
+      "address": "333 S Desplaines St",
+      "phone": "+1 312-869-5000",
+      "url": "http://www.boothhansen.com/",
+      "zip": "60661"
+    },
+    {
+      "name": "Searl Lamaster Howe Architects",
+      "phone": "+1 312-251-9200",
+      "url": "http://www.searlarch.com/",
+      "zip": "60654"
+    },
+    {
+      "name": "Nia Architects",
+      "address": "850 W Jackson Blvd #600",
+      "phone": "+1 312-431-9515",
+      "url": "https://www.niaarch.com/",
+      "zip": "60607"
+    },
+    {
+      "name": "Cordogan Clark & Associates",
+      "address": "716 N Wells St",
+      "phone": "+1 312-943-7300",
+      "url": "http://www.cordoganclark.com/",
+      "zip": "60654"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "name": "New York Physicians",
+      "address": "E 60th St",
+      "url": "https://newyorkphysicians.com/",
+      "zip": "10022"
+    },
+    {
+      "name": "New York Doctors Urgent Care",
+      "address": "65 W 13th St",
+      "phone": "+1 212-414-2800",
+      "url": "http://www.newyorkdoctorsurgentcare.com/",
+      "zip": "10011"
+    },
+    {
+      "name": "Independent Doctors of New York (IDNY)",
+      "url": "http://idny.org/",
+      "zip": "10075"
+    },
+    {
+      "name": "Best Primary Care Doctors NYC",
+      "address": "51 E 25th St #444 · Near Madison Square Park",
+      "phone": "+1 212-843-9609",
+      "url": "http://www.manhattanspecialtycare.com/",
+      "zip": "10010"
+    },
+    {
+      "name": "New York Physicians LLP: Dechiario Alan A MD",
+      "address": "635 Madison Ave # 8",
+      "phone": "+1 212-857-4511",
+      "url": "http://newyorkphysicians.com/",
+      "zip": "10022"
+    },
+    {
+      "name": "Medical Offices of Manhattan",
+      "address": "211 E 51st St",
+      "phone": "+1 212-398-1709",
+      "url": "https://www.medicalofficesofmanhattan.com/?utm_source=gmb_mom&utm_medium=gmb",
+      "zip": "10022"
+    },
+    {
+      "name": "Mount Sinai Doctors Max Meltzer – East 1st Street",
+      "address": "94 E 1st St",
+      "phone": "+1 212-677-2157",
+      "url": "https://www.mountsinai.org/locations/msd-east-1st?utm_source=Yext&utm_medium=local_listing&utm_campaign=BIMG&y_source=1_MTgwODM3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "zip": "10009"
+    },
+    {
+      "name": "Manhattan Family Practice",
+      "address": "911 Park Ave",
+      "phone": "+1 212-288-7193",
+      "url": "http://www.manhattanfamilypractice.com/",
+      "zip": "10075"
+    },
+    {
+      "name": "Mount Sinai Doctors - West 23rd Street",
+      "address": "309 W 23rd St",
+      "phone": "+1 212-352-2600",
+      "url": "https://www.mountsinai.org/locations/msd-west-23?utm_source=Yext&utm_medium=local_listing&utm_campaign=BIMG&y_source=1_MTgwODM2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "zip": "10011"
+    },
+    {
+      "name": "New York Hearing Doctors",
+      "address": "120 E 56th St #430",
+      "phone": "+1 212-774-1971",
+      "url": "https://newyorkhearingdoctors.com/",
+      "zip": "10022"
+    },
+    {
+      "name": "Midtown New York Doctors Urgent Care",
+      "address": "205 Lexington Ave",
+      "phone": "+1 212-684-4700",
+      "url": "http://www.newyorkdoctorsurgentcare.com/",
+      "zip": "10016"
+    },
+    {
+      "name": "Kenneth R. Weinberg, M.D. - Cannabis Doctors of New York",
+      "url": "http://www.cannabisdoctorsofnewyork.com/"
+    },
+    {
+      "name": "New York Physicians LLP: Parker Mary MD",
+      "address": "635 Madison Ave # 8",
+      "phone": "+1 212-857-4655",
+      "url": "http://www.newyorkphysicians.com/",
+      "zip": "10022"
+    },
+    {
+      "name": "Mount Sinai Doctors - Greenwich Street",
+      "address": "255 Greenwich St Floor 5, Suite 510",
+      "phone": "+1 212-298-2720",
+      "url": "https://www.mountsinai.org/locations/msd-greenwich?utm_source=Yext&utm_medium=local_listing&utm_campaign=MSDGR&y_source=1_ODQ2NjI2NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "zip": "10007"
+    },
+    {
+      "name": "Visiting Doctors Program",
+      "address": "1428 Madison Ave",
+      "phone": "+1 212-241-4141",
+      "url": "https://www.mountsinai.org/care/primary-care/upper-east-side/visiting-doctors",
+      "zip": "10029"
+    },
+    {
+      "name": "Mount Sinai Doctors - East 85th Street - Primary Care",
+      "address": "234 E 85th St 2nd floor",
+      "phone": "+1 212-241-6585",
+      "url": "http://www.mountsinaifpa.org/about-us/locations/east-85th-street",
+      "zip": "10028"
+    },
+    {
+      "name": "Park Avenue Medical Professionals",
+      "address": "120 East 86th St",
+      "phone": "+1 212-427-2000",
+      "url": "https://www.parkavedrs.com/",
+      "zip": "10028"
+    },
+    {
+      "name": "Northwell Health Physician Partners at Chelsea North",
+      "address": "121A W 20th St",
+      "phone": "+1 212-505-6663",
+      "url": "https://www.northwell.edu/doctors-offices/northwell-health-physician-partners-at-chelsea-north",
+      "zip": "10011"
+    }
+  ]
+}

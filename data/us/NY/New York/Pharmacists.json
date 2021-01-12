@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "name": "New York City Pharmacy",
+      "phone": "+1 212-253-8686",
+      "url": "http://www.nycprx.com/",
+      "zip": "10009"
+    },
+    {
+      "name": "New London Pharmacy",
+      "address": "Opens soon",
+      "phone": "+1 212-243-4987",
+      "url": "http://www.newlondonpharmacy.com/",
+      "zip": "10011"
+    },
+    {
+      "name": "90th Street Pharmacy",
+      "phone": "+1 212-289-9168",
+      "url": "https://www.mygnp.com/pharmacies/90th-street-pharmacy-new-york-ny-10128/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3325176",
+      "zip": "10128"
+    },
+    {
+      "name": "Apthorp Pharmacy",
+      "url": "http://www.apthorprx.com/",
+      "zip": "10024"
+    },
+    {
+      "name": "New York Chemists",
+      "phone": "+1 212-255-2525",
+      "url": "http://www.newyorkchemists.com/",
+      "zip": "10014"
+    },
+    {
+      "name": "Hudson Square Pharmacy",
+      "url": "https://www.hudsonsquarepharmacy.com/",
+      "zip": "10014"
+    },
+    {
+      "name": "Walgreens Pharmacy",
+      "phone": "+1 212-677-0214",
+      "url": "https://www.walgreens.com/locator/walgreens-145+4th+ave-new+york-ny-10003/id=6159",
+      "zip": "10003"
+    },
+    {
+      "name": "Apotheco Pharmacy Manhattan",
+      "phone": "+1 212-889-0022",
+      "url": "https://www.apothecopharmacy.com/location/apotheco-pharmacy-manhattan/?utm_source=GMBlisting&utm_medium=organic",
+      "zip": "10016"
+    },
+    {
+      "name": "Duane Reade Pharmacy",
+      "address": "",
+      "url": "https://www.walgreens.com/locator/duane+reade-184+5th+ave-new+york-ny-10010/id=14411",
+      "zip": "10010"
+    },
+    {
+      "name": "Downtown Pharmacy",
+      "address": "",
+      "url": "http://www.downtownpharmacy.com/",
+      "zip": "10038"
+    },
+    {
+      "name": "Kings Pharmacy",
+      "address": "Opens soon",
+      "phone": "+1 212-534-6000",
+      "url": "http://www.kingsrx.com/",
+      "zip": "10128"
+    },
+    {
+      "name": "Tribeca Pharmacy",
+      "phone": "+1 212-219-2788",
+      "url": "https://www.kingstribeca.com/",
+      "zip": "10013"
+    },
+    {
+      "name": "Joseph Pharmacy",
+      "address": "",
+      "url": "http://www.josephspharmacy.com/",
+      "zip": "10023"
+    },
+    {
+      "name": "The Pharmacy",
+      "phone": "+1 212-491-7900",
+      "url": "https://stores.healthmart.com/thepharmacyharlem/stores.aspx",
+      "zip": "10039"
+    },
+    {
+      "name": "Kings Pharmacy",
+      "address": "",
+      "url": "http://www.kingstribeca.com/",
+      "zip": "10013"
+    },
+    {
+      "name": "Thriftway Pharmacy",
+      "phone": "+1 212-956-1100",
+      "url": "http://www.thriftwaynyc.com/",
+      "zip": "10036"
+    },
+    {
+      "name": "CVS Pharmacy",
+      "address": "",
+      "url": "https://www.cvs.com/store-locator/cvs-pharmacy-address/150+East+42nd+St+Btwn+3rd+And+Lexington+Ave-New+York-NY-10017/storeid=7019?WT.mc_id=LS_GOOGLE_RX_7019",
+      "zip": "10017"
+    },
+    {
+      "name": "92 Pharmacy",
+      "phone": "+1 212-426-6484",
+      "zip": "10029"
+    }
+  ]
+}

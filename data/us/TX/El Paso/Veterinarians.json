@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "name": "Far East Animal Care Center",
+      "address": "2240 Joe Battle Blvd",
+      "phone": "+1 915-351-1910",
+      "url": "http://fareastanimalcarecenter.com/",
+      "zip": "79938"
+    },
+    {
+      "name": "Montana Animal Clinic",
+      "address": "11237 Rojas Dr",
+      "phone": "+1 915-778-9588",
+      "url": "http://montanaanimalclinic.com/",
+      "zip": "79936"
+    },
+    {
+      "name": "Northeast Veterinary Clinic",
+      "address": "9405 Dyer St",
+      "phone": "+1 915-755-2231",
+      "url": "http://nevc.com/",
+      "zip": "79924"
+    },
+    {
+      "name": "TLC Animal Hospital",
+      "address": "1851 Lee Trevino Dr",
+      "phone": "+1 915-592-6200",
+      "url": "https://www.tlcvetelpaso.com/",
+      "zip": "79936"
+    },
+    {
+      "name": "East El Paso Animal Hospital",
+      "address": "3370 Wedgewood Dr",
+      "phone": "+1 915-593-1712",
+      "url": "http://www.eastelpasoanimalhospital.com/",
+      "zip": "79925"
+    },
+    {
+      "name": "Desert East Animal Hospital, PLLC",
+      "address": "11635 Pellicano Dr",
+      "phone": "+1 915-855-4100",
+      "url": "http://www.deserteastanimalhospital.com/",
+      "zip": "79936"
+    },
+    {
+      "name": "Adobe Animal Hospital and Veterinary Clinic",
+      "address": "3140 Trawood Dr",
+      "phone": "+1 915-855-6966",
+      "url": "http://www.adobeanimalhospitalandclinic.com/",
+      "zip": "79936"
+    },
+    {
+      "name": "Vista Hills Animal Hospital",
+      "address": "1426 Lomaland Dr",
+      "phone": "+1 915-592-5867",
+      "url": "http://vistahillsanimalhospital.com/",
+      "zip": "79935"
+    },
+    {
+      "name": "Crossroads Animal Hospital",
+      "address": "4910 Crossroads Dr",
+      "phone": "+1 915-584-3459",
+      "url": "http://www.xroadsvets.com/",
+      "zip": "79922"
+    },
+    {
+      "name": "El Paso Animal Emergency Center",
+      "address": "1220 Airway Blvd",
+      "phone": "+1 915-545-1148",
+      "url": "http://epanimalemergency.com/",
+      "zip": "79925"
+    },
+    {
+      "name": "Paws N' Hooves Mobile Veterinary Services",
+      "phone": "+1 915-490-4849",
+      "url": "http://www.pnhvet.com/"
+    },
+    {
+      "name": "Foothills Animal Clinic",
+      "address": "710 Belvidere St # A",
+      "phone": "+1 915-833-4883",
+      "url": "https://www.foothillsanimalclinicelpaso.com/",
+      "zip": "79912"
+    },
+    {
+      "name": "El Paso Veterinary Hospital",
+      "address": "4101 Montana Ave",
+      "phone": "+1 915-566-7387",
+      "url": "http://el-paso-veterinary-el-paso.poi.place/",
+      "zip": "79903"
+    },
+    {
+      "name": "Zarges Animal Clinic",
+      "address": "5820 Doniphan Dr",
+      "phone": "+1 915-584-9471",
+      "url": "http://www.zargesanimalclinic.com/",
+      "zip": "79932"
+    },
+    {
+      "name": "Americas Animal Clinic",
+      "address": "630 N Americas Ave",
+      "phone": "+1 915-858-1971",
+      "url": "https://www.americasanimalclinic.com/",
+      "zip": "79907"
+    },
+    {
+      "name": "Harwood Veterinary Clinic",
+      "address": "4404-A, Edgar Park Ave",
+      "phone": "+1 915-755-5653",
+      "url": "http://harwoodveterinaryclinic.com/contact_us.html",
+      "zip": "79904"
+    },
+    {
+      "name": "Holy Family Pet Care",
+      "address": "4400 N Mesa St #8 · In Foothills Plaza",
+      "phone": "+1 915-532-7387",
+      "url": "http://holyfamilypetcare.com/",
+      "zip": "79902"
+    },
+    {
+      "name": "Paws N' Hooves Veterinary Hospital",
+      "address": "3233 N Mesa St Suite 210",
+      "phone": "+1 915-584-4491",
+      "url": "http://www.pnhvet.com/",
+      "zip": "79902"
+    },
+    {
+      "name": "Sun Valley Animal Clinic",
+      "address": "10050 McCombs St",
+      "phone": "+1 915-751-8817",
+      "url": "http://www.sunvalleyanimalclinic.com/",
+      "zip": "79924"
+    },
+    {
+      "name": "El Paso Veterinarian Med Association",
+      "address": "900 Country Club Rd",
+      "phone": "+1 915-833-1414",
+      "url": "http://www.epvma.org/",
+      "zip": "79932"
+    }
+  ]
+}
