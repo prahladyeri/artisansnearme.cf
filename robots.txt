@@ -1,4 +1,6 @@
-# Group 1
-User-agent: *
-
+# robots.txt
 Sitemap: https://artisansnearme.cf/sitemaps/index.xml
+Sitemap: https://artisansnearme.cf/sitemaps/us.xml
+Sitemap: https://artisansnearme.cf/sitemaps/au.xml
+Sitemap: https://artisansnearme.cf/sitemaps/in.xml
+User-agent: *

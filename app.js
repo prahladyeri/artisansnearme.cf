@@ -97,7 +97,7 @@ window.addEventListener("DOMContentLoaded", function(){
 				var item = locs[i];
 				url = new URL(item.getElementsByTagName('loc')[0].textContent);
 				parts = url.pathname.split('/');
-				ct = parts[parts.length-1].split('.txt')[0];
+				ct = parts[parts.length-1].split('.xml')[0];
 				//$("#lblTitle").text(ct  + " - " + document.title);
 				//spritetg = "<span class='f32'><span class='flag "+ct+"'></span></span>"
 				spritetg = "<span class='flag-icon flag-icon-"+ct+"'></span>";
