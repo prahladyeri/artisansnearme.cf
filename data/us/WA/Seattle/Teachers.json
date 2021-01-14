@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Seattle Education Association",
+      "address": "5501 4th Ave S #101"
+    },
+    {
+      "name": "Seattle Guitar Teacher",
+      "address": "9527 Interlake Ave N b306"
+    },
+    {
+      "name": "Seattle Cello Academy",
+      "address": "1215 NE 130th St"
+    },
+    {
+      "name": "Meter Music School - Central District",
+      "address": "2110 E Union St"
+    }
+	]
+}

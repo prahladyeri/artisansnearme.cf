@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "name": "Ezra Penland Actuarial Recruitment",
+      "address": "4256 N Ravenswood Ave",
+      "phone": "+1 800-580-3972",
+      "url": "https://www.ezrapenland.com/",
+      "zip": "60613"
+    },
+    {
+      "name": "Milliman",
+      "address": "71 S Wacker Dr · In 71 South Wacker",
+      "phone": "+1 312-726-0677",
+      "url": "http://www.milliman.com/",
+      "zip": "60606"
+    },
+    {
+      "name": "DW Simpson",
+      "phone": "+1 312-867-2300",
+      "url": "http://www.dwsimpson.com/",
+      "zip": "60613"
+    },
+    {
+      "name": "John Pierce Consulting Actuary",
+      "url": "https://www.pierceactuary.com/",
+      "zip": "60068"
+    },
+    {
+      "name": "Segal",
+      "address": "101 N Upper Wacker Dr # 500",
+      "phone": "+1 312-984-8500",
+      "url": "http://www.segalco.com/",
+      "zip": "60606"
+    },
+    {
+      "name": "Goldstein & Associates",
+      "url": "http://www.goldsteinactuaries.com/",
+      "zip": "60606"
+    },
+    {
+      "name": "Cheiron, Inc",
+      "phone": "+1 703-893-1456",
+      "url": "https://cheiron.us/cheironHome/",
+      "zip": "60606"
+    },
+    {
+      "name": "Moore Actuarial Consulting, LLC",
+      "url": "https://www.mooreactuarial.com/about-us/",
+      "zip": "60154"
+    },
+    {
+      "name": "Actuarial Foundation",
+      "address": "Schaumburg, IL, United States",
+      "phone": "+1 847-706-3535",
+      "url": "https://www.actuarialfoundation.org/",
+      "zip": "60173"
+    },
+    {
+      "name": "Midwest Consulting Actuaries, Inc.",
+      "phone": "+1 219-227-6059",
+      "url": "http://www.mcactuaries.com/",
+      "zip": "46322"
+    },
+    {
+      "name": "Society of Actuaries",
+      "address": "Schaumburg, IL, United States",
+      "phone": "+1 847-706-3500",
+      "url": "http://www.soa.org/",
+      "zip": "60173"
+    },
+    {
+      "name": "Smith Hanley Associates LLC",
+      "phone": "+1 312-629-2400",
+      "url": "http://www.smithhanley.com/",
+      "zip": "60606"
+    },
+    {
+      "name": "Conference of Consulting Actuaries (CCA)",
+      "address": "Long Grove, IL, United States · In Landmark Corporate Center",
+      "phone": "+1 847-719-6500",
+      "url": "http://www.ccactuaries.org/",
+      "zip": "60047"
+    }
+  ]
+}

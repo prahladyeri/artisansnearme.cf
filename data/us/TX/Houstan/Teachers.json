@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "name": "Texas Teachers of Tomorrow",
+      "address": "2401 Fountain View Dr Suite 700",
+      "phone": "+1 713-458-1660",
+      "url": "http://www.texasteachers.org/",
+      "zip": "77057"
+    },
+    {
+      "name": "Houston Federation of Teachers",
+      "address": "2704 Sutherland St",
+      "phone": "+1 713-623-8891",
+      "url": "http://hft2415.org/",
+      "zip": "77023"
+    },
+    {
+      "name": "Teachers 2 Go - Tutoring & Lessons In Your Home",
+      "address": "800 Wilcrest Dr # 258",
+      "phone": "+1 713-789-2352",
+      "url": "http://www.teachers2gohouston.com/?utm_campaign=maps&utm_source=google",
+      "zip": "77042"
+    },
+    {
+      "name": "Teachers Aid Food Bank",
+      "address": "8353 East Fwy",
+      "phone": "+1 713-547-8661",
+      "url": "https://www.houstonfoodbank.org/our-programs/teachers-aid/",
+      "zip": "77029"
+    },
+    {
+      "name": "Congress of Houston Teachers",
+      "url": "https://cht.org/"
+    },
+    {
+      "name": "Aldine Federation of Teachers",
+      "address": "1404 N Sam Houston Pkwy E · In North Green Business Center",
+      "phone": "+1 281-847-3050",
+      "url": "http://aldine.tx.aft.org/",
+      "zip": "77032"
+    }
+  ]
+}

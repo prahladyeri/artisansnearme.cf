@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "TakeLessons",
+      "address": "350 Tenth Ave"
+    },
+    {
+      "name": "SDEA - San Diego Education Association",
+      "address": "10393 San Diego Mission Rd # 100"
+    },
+    {
+      "name": "School of Rock San Diego",
+      "address": "2850 Womble Rd Suite 104 · In Liberty Station"
+    },
+    {
+      "name": "U.S. Music Lessons",
+      "address": "17150 Via Del Campo suite 306"
+    },
+    {
+      "name": "Singing Lessons San Diego by Eleonor England",
+      "address": "2705 Angell Ave"
+    },
+    {
+      "name": "Piano Lessons Studio in San Diego County",
+      "address": "Jackie Dr"
+    },
+    {
+      "name": "Lakeshore Learning Store",
+      "address": "7510 Hazard Center Dr #201 · In Hazard Center"
+    },
+    {
+      "name": "TR Music & Voice Lessons",
+      "address": "2840 Brosnan St"
+    },
+    {
+      "name": "Susan Simmons - Voice Coaching, Singing and Voice Lessons & Music Instructor in San Diego, CA",
+      "address": "3965 Arista St"
+    },
+    {
+      "name": "Poway Federation of Teachers",
+      "address": "Poway, CA, United States"
+    }
+  ]
+}

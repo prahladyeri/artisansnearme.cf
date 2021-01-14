@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "name": "SF Bay Pediatrics",
+      "address": "525 Spruce St #1",
+      "phone": "+1 415-668-8900",
+      "url": "http://www.sfbaypeds.com/",
+      "zip": "94118"
+    },
+    {
+      "name": "GetzWell Personalized Pediatrics",
+      "address": "1701 Church St",
+      "phone": "+1 415-826-1701",
+      "url": "http://www.getzwell.com/",
+      "zip": "94131"
+    },
+    {
+      "name": "Golden Gate Pediatrics",
+      "address": "1 Daniel Burnham Ct #330C",
+      "phone": "+1 415-668-0888",
+      "url": "http://www.goldengatepediatrics.com/",
+      "zip": "94109"
+    },
+    {
+      "name": "GetzWell Personalized Pediatrics",
+      "address": "1800 Union St",
+      "phone": "+1 415-826-1701",
+      "url": "http://getzwell.com/",
+      "zip": "94123"
+    },
+    {
+      "name": "City Life Pediatrics - Noah B. Simons, MD, FAAP",
+      "address": "3259 Pierce St",
+      "phone": "+1 415-601-1339",
+      "url": "https://www.citylifepediatrics.com/",
+      "zip": "94123"
+    },
+    {
+      "name": "Stonestown - Pediatrics",
+      "phone": "+1 415-379-2020",
+      "url": "https://locations.dignityhealth.org/stonestown-pediatrics?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=BayArea&utm_term=StonestownPediatrics&y_source=1_MTExNDc5MDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "zip": "94132"
+    },
+    {
+      "name": "Pacific Pediatrics Medical Group, Inc",
+      "address": "45 Castro St #232",
+      "phone": "+1 415-565-6810",
+      "url": "http://www.pacificpediatrics.com/",
+      "zip": "94114"
+    },
+    {
+      "name": "Noe Valley Pediatrics",
+      "address": "3700 24th St",
+      "phone": "+1 415-641-1019",
+      "url": "http://www.noevalleypediatrics.com/",
+      "zip": "94114"
+    },
+    {
+      "name": "Town and Country Pediatric Medical Associates",
+      "address": "2100 Webster St #110 · In Pacific Professional Building",
+      "phone": "+1 415-666-1860",
+      "url": "http://www.tacpediatrics.com/",
+      "zip": "94115"
+    },
+    {
+      "name": "Stonestown Pediatric Medical",
+      "url": "http://www.sutterpacific.org/locations/sanfrancisco/595buckingham.html",
+      "zip": "94132"
+    },
+    {
+      "name": "Dr. Kelly K. Wong, MD",
+      "address": "728 Pacific Ave #703",
+      "phone": "+1 415-805-7782",
+      "zip": "94133"
+    },
+    {
+      "name": "Benjamin N. Wan, M.D.",
+      "address": "595 Buckingham Way #500",
+      "phone": "+1 415-665-6100",
+      "url": "http://www.drbenjaminwan.com/",
+      "zip": "94132"
+    },
+    {
+      "name": "Dr. Daniel P. Kelly, MD",
+      "address": "45 Castro St #232",
+      "phone": "+1 415-565-6810",
+      "url": "http://www.pacificpediatrics.com/",
+      "zip": "94114"
+    },
+    {
+      "name": "Sunset Pediatrics",
+      "address": "1518 Noriega St",
+      "phone": "+1 415-566-7556",
+      "url": "http://www.sunsetpediatricssf.com/",
+      "zip": "94122"
+    },
+    {
+      "name": "Mitchell C. Sollod, M.D.",
+      "address": "350 Rhode Island St #355",
+      "phone": "+1 415-566-2727",
+      "url": "https://www.sutterhealth.org/find-doctor/dr-mitchell-c-sollod",
+      "zip": "94103"
+    },
+    {
+      "name": "Kaiser Permanente, Pediatrics",
+      "url": "https://thrive.kaiserpermanente.org/care-near-you/northern-california/sanfrancisco/departments/pediatrics/",
+      "zip": "94115"
+    },
+    {
+      "name": "Pacific Pediatrics (Webster St.)",
+      "phone": "+1 415-565-6810",
+      "url": "http://www.pacificpediatrics.com/",
+      "zip": "94115"
+    },
+    {
+      "name": "Dr. John Huang, MD, MPH",
+      "address": "185 Berry St Lobby 2, Suite 130 · In China Basin",
+      "phone": "+1 415-514-4533",
+      "url": "https://www.ucsfhealth.org/providers/dr-john-huang",
+      "zip": "94107"
+    },
+    {
+      "name": "Lee Carol K MD",
+      "address": "1518 Noriega St",
+      "phone": "+1 415-566-7556",
+      "url": "http://www.sunsetpediatricssf.com/",
+      "zip": "94122"
+    }
+  ]
+}
