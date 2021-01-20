@@ -10,6 +10,7 @@ https://artisansnearme.cf?ct=us&state=TX&city=Houstan&prof=Teachers
 https://artisansnearme.cf?ct=us&state=TX&city=El Paso&prof=Veterinarians
 https://artisansnearme.cf?ct=us&state=TX&city=Dallas&prof=Pediatricians
 https://artisansnearme.cf?ct=us&state=TX&city=Austin&prof=Veterinarians
+https://artisansnearme.cf?ct=us&state=TX&city=Fort Worth&prof=Cooks
 https://artisansnearme.cf?ct=us&state=PA&city=Philadelphia&prof=Web Designers
 https://artisansnearme.cf?ct=us&state=PA&city=Philadelphia&prof=Architects
 https://artisansnearme.cf?ct=us&state=PA&city=Philadelphia&prof=Actuaries
@@ -28,6 +29,8 @@ https://artisansnearme.cf?ct=us&state=DC&city=Washington&suburb=Bellevue&prof=De
 https://artisansnearme.cf?ct=us&state=DC&city=Washington&prof=Dentists
 https://artisansnearme.cf?ct=us&state=DC&city=Washington&prof=Doctors
 https://artisansnearme.cf?ct=us&state=DC&city=Washington&prof=Nurses
+https://artisansnearme.cf?ct=us&state=DC&city=Washington&prof=Teachers
+https://artisansnearme.cf?ct=us&state=DC&city=Washington&prof=Veterinarians
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Jamaica&prof=Lawyers
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Midtown&prof=Dentists
 https://artisansnearme.cf?ct=us&state=NY&city=New York&suburb=Glendale&prof=Lawyers
@@ -43,7 +46,9 @@ https://artisansnearme.cf?ct=us&state=NY&city=New York&prof=Nurses
 https://artisansnearme.cf?ct=us&state=NY&city=New York&prof=Pharmacists
 https://artisansnearme.cf?ct=us&state=NY&city=New York&prof=Doctors
 https://artisansnearme.cf?ct=us&state=NY&city=New York&prof=Architects
+https://artisansnearme.cf?ct=us&state=NY&city=New York&prof=Physicians
 https://artisansnearme.cf?ct=us&state=NC&city=Charlotte&prof=Pediatricians
+https://artisansnearme.cf?ct=us&state=NC&city=Charlotte&prof=Web Designers
 https://artisansnearme.cf?ct=us&state=FL&city=Jacksonville&prof=Pediatricians
 https://artisansnearme.cf?ct=us&state=IL&city=Chicago&prof=Architects
 https://artisansnearme.cf?ct=us&state=IL&city=Chicago&prof=Veterinarians
@@ -51,3 +56,5 @@ https://artisansnearme.cf?ct=us&state=IL&city=Chicago&prof=Actuaries
 https://artisansnearme.cf?ct=us&state=CA&city=San Francisco&prof=Pediatricians
 https://artisansnearme.cf?ct=us&state=CA&city=San Diego&prof=Teachers
 https://artisansnearme.cf?ct=us&state=IN&city=Indianapolis&prof=Web Designers
+https://artisansnearme.cf?ct=us&state=MA&city=Boston&prof=Teachers
+https://artisansnearme.cf?ct=us&state=CO&city=Denver&prof=Teachers

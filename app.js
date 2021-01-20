@@ -115,6 +115,7 @@ window.addEventListener("DOMContentLoaded", function(){
 		metaDescn = document.head.querySelector('meta[name="description"]').content;
 		metaDescn = ct + " - " + metaDescn
 		document.head.querySelector('meta[name="description"]').content = metaDescn;
+		document.title = ct + " - " + document.title;
 		//@todo: make the footer block bigger as there will be many entries in this case
 	}
 	else { //all entries proper

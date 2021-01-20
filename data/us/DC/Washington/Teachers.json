@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "name": "Washington Education Association",
+      "address": "Federal Way, WA, United States",
+      "phone": "+1 253-941-6700",
+      "url": "https://www.washingtonea.org/",
+      "zip": "98001"
+    },
+    {
+      "name": "Spokane Teachers Credit Union",
+      "phone": "+1 509-326-1954",
+      "zip": "99156"
+    },
+    {
+      "name": "AFT Washington",
+      "phone": "+1 206-242-4777",
+      "url": "http://wa.aft.org/",
+      "zip": "98188"
+    },
+    {
+      "name": "Seattle Teacher Residency",
+      "phone": "+1 206-343-0449",
+      "url": "http://www.seattleteacherresidency.org/",
+      "zip": "98101"
+    },
+    {
+      "name": "Washington Elementary School",
+      "address": "Tacoma, WA, United States",
+      "phone": "+1 253-571-5700",
+      "url": "https://www.tacomaschools.org/washington/Pages/default.aspx",
+      "zip": "98407"
+    },
+    {
+      "name": "Teacher's World",
+      "address": "Spokane Valley, WA, United States",
+      "phone": "+1 509-534-8697",
+      "url": "http://www.teachers-world.com/",
+      "zip": "99212"
+    },
+    {
+      "name": "Washington Elementary School",
+      "address": "Auburn, WA, United States",
+      "phone": "+1 253-931-4988",
+      "url": "http://www.auburn.wednet.edu/",
+      "zip": "98002"
+    },
+    {
+      "name": "STCU: South Branch",
+      "address": "Spokane, WA, United States",
+      "phone": "+1 509-326-1954",
+      "url": "https://stcu.org/locations/south-spokane-branch",
+      "zip": "99203"
+    },
+    {
+      "name": "Lake Washington Education Association",
+      "url": "http://www.lakewashingtonea.org/",
+      "zip": "98033"
+    },
+    {
+      "name": "Teach For America",
+      "address": "Seattle, WA, United States",
+      "phone": "+1 206-538-5130",
+      "url": "https://www.teachforamerica.org/",
+      "zip": "98134"
+    },
+    {
+      "name": "STCU ATM",
+      "address": "Spokane Valley, WA, United States · In Costco Wholesale",
+      "phone": "+1 509-326-1954",
+      "url": "https://stcu.org/locations?selected=39",
+      "zip": "99212"
+    },
+    {
+      "name": "Launching Success Learning Store",
+      "address": "Bellingham, WA, United States",
+      "phone": "+1 360-527-2641",
+      "url": "https://launchingsuccess.com/",
+      "zip": "98226"
+    },
+    {
+      "name": "Washington Education Association Government Relations Office",
+      "url": "http://www.washingtonea.org/",
+      "zip": "98501"
+    },
+    {
+      "name": "Lakeshore Learning Store",
+      "address": "Bellevue, WA, United States",
+      "phone": "+1 425-462-8076",
+      "url": "http://www.lakeshorelearning.com/",
+      "zip": "98006"
+    },
+    {
+      "name": "Washington State Literacy Association",
+      "url": "http://washingtonliteracy.org/",
+      "zip": "98125"
+    },
+    {
+      "name": "STCU: Northtown Square Branch",
+      "address": "Spokane, WA, United States · In Northtown Square",
+      "phone": "+1 509-326-1954",
+      "url": "https://stcu.org/locations/northtown-square-branch",
+      "zip": "99207"
+    },
+    {
+      "name": "Inspirus Credit Union",
+      "address": "Tukwila, WA, United States",
+      "phone": "+1 206-628-4010",
+      "url": "http://inspiruscu.org/",
+      "zip": "98188"
+    },
+    {
+      "name": "Seattle Music Teachers Association",
+      "url": "http://seattlemta.org/",
+      "zip": "98101"
+    },
+    {
+      "name": "Seattle Music Teachers Association",
+      "url": "https://seattlemta.org/",
+      "zip": "98101"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "Boston Teachers Union",
+      "address": "Dorchester, MA, United States",
+      "phone": "+1 617-288-2000",
+      "url": "http://www.btu.org/",
+      "zip": "02125"
+    },
+    {
+      "name": "Boston Teachers Union School",
+      "address": "25 Walk Hill St",
+      "phone": "+1 617-635-7717",
+      "url": "http://btuschool.com/",
+      "zip": "02130"
+    }
+  ]
+}
